@@ -13,4 +13,10 @@
 
 唯美食与数学不可辜负.
 
-![1](picture/1.png){:height="30%" width="30%"}
+![1](picture/1.png){:height="50%" width="50%"}
+![2](picture/2.png){:height="50%" width="50%"}
+![3](picture/3.png){:height="50%" width="50%"}
+![4](picture/4.png){:height="50%" width="50%"}
+![5](picture/5.png){:height="50%" width="50%"}
+![6](picture/6.png){:height="50%" width="50%"}
+![7](picture/7.png){:height="50%" width="50%"}
