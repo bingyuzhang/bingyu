@@ -4,7 +4,7 @@
 
 我是张秉宇(Bingyu Zhang)
 
-Institute Fourier, UMR 5582 of CNRS, Université Grenoble Alpes. 
+Institute Fourier, CNRS UMR 5582, Université Grenoble Alpes. 
 
 100, rue des maths 38610 Gières, France.  
 
