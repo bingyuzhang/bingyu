@@ -36,8 +36,9 @@ I am interested in symplectic and contact geometry/topology and relate physics. 
 
 # Useful links
 
-I would like to share a [website](https://tikzcd.yichuanshen.de/) to dram commutative diagram based on tikzcd. Thanks for the author for saving lots of my time.
-
 [Institute Fourier](https://www-fourier.ujf-grenoble.fr/)
 
-[séminaire Symplectix](http://symplectix.blogspot.com/)
+[Séminaire Symplectix](http://symplectix.blogspot.com/)
+
+A [website](https://tikzcd.yichuanshen.de/) to dram commutative diagram based on tikzcd. Thanks for the author very much!
+
