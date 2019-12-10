@@ -8,7 +8,6 @@ Institute Fourier, UMR 5582 of CNRS, Université Grenoble Alpes.
 E-mail: bingyu.zhang@univ-grenoble-alpes.fr
 
 
-
 ## Profile
 
 Currently, I am a first year PhD student of the Institute Fourier from Oct.2019. My advisors are Damien Gayet(IF, UGA), Stéphane Guillermou(IF, UGA), and Claude Viterbo(ENS Ulm).
