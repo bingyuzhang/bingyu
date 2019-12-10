@@ -1,7 +1,7 @@
-| [Home](index.md)  | [Reserch](research-en.md)    | [Teaching](teaching-en.md)         | [Chinese](teaching-ch.md) |
+| [主页](index-ch.md)  | [研究](research-ch.md)    | [教学](teaching-ch.md)         | [English](teaching-en.md) |
 
-# Teaching
+# 教学
 
-- 2018 Spring: TA on [linear algebra](http://www.mmrc.iss.ac.cn/~zmli/LinearAlgebra2017.html)(in Chinese) in the University of Chinese Academy of Sciences. Instructor: Prof.Ziming Li. 
+- 2018年春季: 在中国科学院大学, 担任[线性代数](http://www.mmrc.iss.ac.cn/~zmli/LinearAlgebra2017.html)习题课助教. 主讲教师: 李子明研究员.
 
-- 2017 Autumn: TA on Calculus A in the University of Chinese Academy of Sciences. Instructor: Prof.Weidong Ruan. 
+- 2017年秋季: 在中国科学院大学, 担任微积分A习题课助教. 主讲教师: 阮卫东研究员.
