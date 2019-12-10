@@ -3,15 +3,14 @@
 
 # 研究
 
-我对辛与切触几何(拓扑)及相关物理有兴趣. 目前, 我主要致力于用微局部层论研究余切丛的辛几何. 特别地, 对每个拉格朗日子流形或余切丛中的区域, 我们有一个相应的范畴. 这些范畴及其之间的函子
-In particular, we can study categories associated to a Lagrangian submanifold or a domain in cotangent bundles. These categories and functors between them contain lots of geometry information of given Lagrangian submanifolds or domains.
+我对辛与切触几何(拓扑)及相关物理有兴趣. 目前, 我主要致力于用微局部层论研究余切丛的辛几何. 特别地, 对每个拉格朗日子流形或余切丛中的区域, 我们有一个相应的范畴. 这些范畴及其之间的函子蕴含了诸多给定拉格朗日子流形或区域的几何信息.
 
-## Paper
+## 论文
 
-- Furthur study on Chiu's invariant(In preparing). In [this paper](https://arxiv.org/abs/1405.1178), Shengfu Chiu present a method to prove non-squeezing of big contact ball. But the contact inavariants he used is still intriguing. Now we are going on further on this invariants, for example try to understand the embedding problem of ellipsoids by Chiu's invariants.
+- 邱不变量的进一步研究(准备中): 在[文](https://arxiv.org/abs/1405.1178)中, 邱圣夫展示了一种证明大切触球非压缩性的方法. 然而他使用的切触不变量仍然非常迷幻. 我们现在正在对这个不变量进行进一步研究, 例如我们正在试图用邱不变量理解椭球的嵌入问题. 
 
-## Thesis and notes
+## 毕业论文及笔记
 
-- [M2 thesis](M2_thesis.pdf) is my M2 thesis in the Institute Fourier, under the supervison of Stéphane Guillermou. It provides a construction of the kernel of the projector to the category associate to cubes in symplectic linear spaces, and then prove a sheaf theorical proof of a weak version of the Gromov non-squeezing theorm. As a appendant, it provides a review on some basic results of categories of sheaves we used.
+- [M2毕业论文](M2_thesis.pdf)(英文版)是我在Institute的M2毕业论文, 导师是Stéphane Guillermou. 本文展示了一个辛线性空间中立方体对应范畴的投影函子的构造, 并且我们用它给出了Gromov非压缩定理的一个弱版本的层论证明. 作为副产品, 它也展示了一些我们用到的层范畴的基本结果.
 
-- On the [CAS master thesis](CAS_Thesis.pdf)(in Chinese), under the supervision of Weidong Ruan. I write a note on the proof of the Guillermou-Kashiwara-Schapira sheaf quantization of Hamiltionian.
+- 在阮卫东研究员指导下, 我在[中科院硕士论文](CAS_Thesis.pdf)中完成了一个哈密顿同痕的Guillermou-Kashiwara-Schapira层量子化的笔记.
