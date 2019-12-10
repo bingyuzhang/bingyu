@@ -1,4 +1,4 @@
-| [Home](index.md)  | [Reserch](research-en.md)    | [Teaching](teaching-en.md)         | [Chinese](teaching-ch.md) |
+| [Home](index.md)  | [Reserch](research-en.md)    | [Teaching](teaching-en.md)         | [中文](teaching-ch.md) |
 
 # Teaching
 
