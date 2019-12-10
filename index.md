@@ -8,7 +8,9 @@ E-mail: bingyu.zhang@univ-grenoble-alpes.fr
 
 ## Profile
 
-Currently, I am a first year PhD student in Institute Fourier from Oct.2019. My advisors are Damien Gayet(IF, UGA), Stéphane Guillermou(IF, UGA), and Claude Viterbo(ENS Ulm).
+Currently, I am a first year PhD student of Institute Fourier from Oct.2019. My advisors are Damien Gayet(IF, UGA), Stéphane Guillermou(IF, UGA), and Claude Viterbo(ENS Ulm).
+
+I complete my bacholar degree in the [School of mathematics, Human University](http://math.hnu.edu.cn/), Changsha, China, and my first master degree in the [AMSS, CAS](http://www.math.ac.cn/), Beijing, China.
 
 Here is my [CV](CV.pdf).
 
