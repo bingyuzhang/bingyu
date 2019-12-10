@@ -1,8 +1,8 @@
-# Bingyu Zhang(张秉宇)
+# Bingyu Zhang(张秉宇)![Octocat](title.jpg)
 
 Institute Fourier, UMR 5582 of CNRS, Université Grenoble Alpes. 
 
-            100, rue des maths 38610 Gières, France.  ![Octocat](title.jpg)
+100, rue des maths 38610 Gières, France.  
 
 E-mail: bingyu.zhang@univ-grenoble-alpes.fr
 
