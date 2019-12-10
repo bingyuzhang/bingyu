@@ -35,12 +35,6 @@ I am interested in symplectic and contact geometry/topology and relate physics. 
 
 - On the [CAS master thesis](CAS_Thesis.pdf)(in Chinese), under the supervision of Weidong Ruan. I write a note on the proof of the Guillermou-Kashiwara-Schapira sheaf quantization of Hamiltionian.
 
-# Teaching
-
-- TA on [linear algebra](http://www.mmrc.iss.ac.cn/~zmli/LinearAlgebra2017.html)(in Chinese) in the University of Chinese Academy of Sciences. Instructor: Prof.Ziming Li. 
-
-- TA on Calculus A in the University of Chinese Academy of Sciences. Instructor: Prof.Weidong Ruan. 
-
 
 
 # Useful links
