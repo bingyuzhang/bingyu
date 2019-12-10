@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my page.
+
+I am a first year PhD student in Institute Fourier, UMR 5582 of CNRS, Université Grenoble Alpes. My advisors are Damien Gayet(IF, UGA), Claude Viterbo(ENS Ulm), Stephane Guillermou(IF, UGA)
+
+Here is my [CV](https://github.com/bingyuzhang/bingyu.github.io/edit/master/CV.pdf).
 
 You can use the [editor on GitHub](https://github.com/bingyuzhang/bingyu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
