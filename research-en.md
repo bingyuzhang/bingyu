@@ -1,4 +1,4 @@
-| [Home](index.md)  | [Reserch](research.md)    | [Teaching](teaching.md)         | [Chinese](research-ch.md) |
+| [Home](index.md)  | [Reserch](research-en.md)    | [Teaching](teaching-en.md)         | [Chinese](research-ch.md) |
 
 
 # Research
