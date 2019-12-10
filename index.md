@@ -5,7 +5,7 @@ Institute Fourier, UMR 5582 of CNRS, Université Grenoble Alpes.
 
 <dd>100, rue des maths 38610 Gières, France.  
 
-E-mail: bingyu.zhang@univ-grenoble-alpes.fr
+<dd>E-mail: bingyu.zhang@univ-grenoble-alpes.fr
 
 
 
