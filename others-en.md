@@ -1,3 +1,5 @@
+| [Home](index.md)  | [Reserch](research-en.md)    | [Teaching](teaching-en.md) | [Others](others-en.md)        | [中文](others-ch.md) |
+
 # Useful links
 
 [Institute Fourier](https://www-fourier.ujf-grenoble.fr/)
@@ -6,6 +8,6 @@
 
 A [website](https://tikzcd.yichuanshen.de/) to dram commutative diagram based on tikzcd. Thanks for the author very much!
 
-#Cooking
+# Cooking
 
-Under construction.
+Regret nothing in matters of food and math.
