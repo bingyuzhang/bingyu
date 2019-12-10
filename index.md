@@ -9,4 +9,4 @@ E-mail: bingyu.zhang@univ-grenoble-alpes.fr
 
 I am a first year PhD student in Institute Fourier. My advisors are Damien Gayet(IF, UGA), Stephane Guillermou(IF, UGA), and Claude Viterbo(ENS Ulm).
 
-Here is my [CV](https://bingyu.github.io/bingyu/CV.pdf).
+Here is my [CV](https://github.com/bingyuzhang/bingyu/blob/master/CV.pdf).
