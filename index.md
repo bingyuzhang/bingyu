@@ -1,3 +1,7 @@
+| [Home](index.md)        | [Teaching](teaching.md)         | three |
+|:-------------|:------------------|:------|
+
+
 # Bingyu Zhang(张秉宇)
 
 <img align="right" src="https://github.com/bingyuzhang/bingyu/blob/master/title.jpg">
