@@ -1,5 +1,5 @@
-| [Home](index.md)        | [Teaching](teaching.md)         | three |
-|:-------------|:------------------|:------|
+| [Home](index.md)  | [Reserch](research.md)    | [Teaching](teaching.md)         | three |
+|:---|:---|:---|:---|
 
 
 # Bingyu Zhang(张秉宇)
