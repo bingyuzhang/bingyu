@@ -1,3 +1,4 @@
+| [Home](index.md)  | [Reserch](research.md)    | [Teaching](teaching.md)         | [Chinese](index-ch.md) |
 # Research
 
 I am interested in symplectic and contact geometry/topology and relate physics.  Now I am focusing on using microlocal sheaf theory to study symplectic geometry of the cotangent bundles. In particular, we can study categories associated to a Lagrangian submanifold or a domain in cotangent bundles. These categories and functors between them contain lots of geometry information of given Lagrangian submanifolds or domains.
