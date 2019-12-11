@@ -1,4 +1,4 @@
-| [主页](index-ch.md)  | [研究](research-ch.md)    | [教学](teaching-ch.md)         | [English](research-en.md) |
+| [主页](index-ch.md)  | [研究](research-ch.md)    | [教学](teaching-ch.md)         |[其它](others-ch.md) | [English](research-en.md) |
 
 
 # 研究
