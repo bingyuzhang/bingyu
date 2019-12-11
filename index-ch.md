@@ -12,9 +12,7 @@ Institute Fourier, UMR 5582 du CNRS, Université Grenoble Alpes.
 
 E-mail: bingyu.zhang@univ-grenoble-alpes.fr
 
-目前, 我是Institute Fourier的第一年博士生(从2019年10月起). 我的导师是Damien Gayet(IF, UGA), Stéphane Guillermou(IF, UGA), 和Claude Viterbo(ENS Ulm).
-
-我在[湖南大学数学学院](http://math.hnu.edu.cn/)取得本科学位, 于[中国科学院数学与系统科学研究院](http://www.math.ac.cn/)取得第一个硕士学位.
+目前, 我是Institute Fourier的第一年博士生(从2019年10月起). 我的导师是Damien Gayet(IF, UGA), Stéphane Guillermou(IF, UGA), 和Claude Viterbo(ENS Ulm)
 
 这里是我的简历 [CV](CV.pdf)(英文版).
 
