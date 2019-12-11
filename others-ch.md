@@ -16,4 +16,4 @@
 ![1](picture/1.png){:height="40%" width="40%"}![2](picture/2.png){:height="40%" width="40%"}
 ![3](picture/3.png){:height="40%" width="40%"}![4](picture/4.png){:height="40%" width="40%"}
 ![5](picture/5.png){:height="40%" width="40%"}![6](picture/6.png){:height="40%" width="40%"}
-![7](picture/7.png){:height="40%" width="50%"}
+![7](picture/7.png){:height="40%" width="40%"}
