@@ -1,20 +1,20 @@
-| [Home](index.md)  | [Reserch](research-en.md)    | [Teaching](teaching-en.md) | [Others](others-en.md)        | [中文](index-ch.md) |
+| [Accueil](index-fr.md)  | [Recherche](research-fr.md)    | [Enseignement](teaching-fr.md) | [Autres](others-fr.md)    [[English](index.md)    | [中文](index-ch.md) |
 
 * * *
 
-I am Bingyu Zhang(张秉宇)
+Je suis Bingyu Zhang (张秉宇)
 
-Institute Fourier, UMR 5582 du CNRS, Université Grenoble Alpes. 
+Institut Fourier, UMR 5582 du CNRS, Université Grenoble Alpes.
 
-100, rue des maths 38610 Gières, France.  
+100, rue des maths 38610 Gières, France.
 
-Room: 309
+Bureau: 309
 
 E-mail: bingyu.zhang@univ-grenoble-alpes.fr
 
-Currently, I am a first year PhD student of the Institute Fourier from Oct.2019. My advisors are Damien Gayet(IF, UGA), Stéphane Guillermou(IF, UGA), and Claude Viterbo(ENS Ulm).
+Actuellement, je suis doctorant en première année de l'Institut Fourier à partir d'octobre 2019. Mes directeurs de these sont Damien Gayet (IF, UGA), Stéphane Guillermou (IF, UGA) et Claude Viterbo (ENS Ulm).
 
-Here is my [CV](CV.pdf).
+Voici mon [CV] (CV.pdf).
 
 ![title](title.jpg)
 
