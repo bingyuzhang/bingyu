@@ -8,6 +8,8 @@ Institute Fourier, UMR 5582 du CNRS, Université Grenoble Alpes.
 
 100, rue des maths 38610 Gières, France.  
 
+309室
+
 E-mail: bingyu.zhang@univ-grenoble-alpes.fr
 
 目前, 我是Institute Fourier的第一年博士生(从2019年10月起). 我的导师是Damien Gayet(IF, UGA), Stéphane Guillermou(IF, UGA), 和Claude Viterbo(ENS Ulm).
