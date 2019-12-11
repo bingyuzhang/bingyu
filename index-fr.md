@@ -1,4 +1,4 @@
-| [Accueil](index-fr.md)  | [Recherche](research-fr.md)    | [Enseignement](teaching-fr.md) | [Autres](others-fr.md)    [[English](index.md)    | [中文](index-ch.md) |
+| [Accueil](index-fr.md)  | [Recherche](research-fr.md)    | [Enseignement](teaching-fr.md) | [Autres](others-fr.md)    |[English](index.md)    | [中文](index-ch.md) |
 
 * * *
 
