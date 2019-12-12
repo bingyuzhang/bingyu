@@ -1,8 +1,12 @@
 
 ---
-title: bingyu-math
-SEOtitle: bingyu-math
-keywords: "Bingyu, bingyu, Bingyu Zhang, Bingyu Zhang math, bingyu Zhang, bingyu Zhang math, 张秉宇"
-description: bingyu zhang math 张秉宇 数学
+title: Bingyu Zhang's Homepage
+SEOtitle: Bingyu Zhang
+keywords: "Bingyu, bingyu, Bingyu Zhang, Bingyu Zhang math, bingyu Zhang, bingyu Zhang math,Bingyu Zhang grenoble,bingyu Zhang grenoble, 张秉宇"
+description: Université Grenoble Alpes
+url: https://byzhang.cn/
+
 ---
-url: https://byzhang.cn//
+sidebar: ture
+sidebar-about-description: Hi!
+sidebar-avatar: /title.jpg
