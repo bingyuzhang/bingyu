@@ -14,4 +14,3 @@ Je m'intéresse à la géométrie / topologie symplectique et de contact et fais
 
 - Sur le [mémoire de maîtrise CAS] (CAS_Thesis.pdf) (en chinois), sous la supervision de Wei-dong Ruan. J'écris une note sur la preuve de  quantification de le faisceau de Hamiltionian Guillermou-Kashiwara-Schapira.
 
-<meta name="googlebot" content="noindex" />
