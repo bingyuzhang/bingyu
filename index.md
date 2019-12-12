@@ -1,7 +1,7 @@
 | [Home](index.md)  | [Reserch](research-en.md)    | [Teaching](teaching-en.md) | [Others](others-en.md)        | [中文](index-ch.md) |
 
 * * *
-# Welcome to my mathematical page!
+# Welcome to my homepage on mathematics!
 
 I am Bingyu Zhang(张秉宇).
 
