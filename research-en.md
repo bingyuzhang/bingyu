@@ -15,4 +15,3 @@ I am interested in symplectic and contact geometry/topology and relate physics. 
 
 - On the [CAS master thesis](CAS_Thesis.pdf)(in Chinese), under the supervision of Wei-dong Ruan. I write a note on the proof of the Guillermou-Kashiwara-Schapira sheaf quantization of Hamiltionian.
 
-<meta name="googlebot" content="noindex" />
