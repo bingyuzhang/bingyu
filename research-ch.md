@@ -15,4 +15,3 @@
 
 - 在阮卫东研究员指导下, 我在[中科院硕士论文](CAS_Thesis.pdf)中完成了一个哈密顿同痕的Guillermou-Kashiwara-Schapira层量子化的笔记.
 
-<meta name="googlebot" content="noindex" />
