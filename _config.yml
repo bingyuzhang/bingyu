@@ -1,8 +1,12 @@
 theme: jekyll-theme-architect
 ---
-title: bingyu
-keywords: bingyu, Bingyu Zhang, Bingyu Zhang math
+title: bingyu-math
+SEOtitle: bingyu-math
+keywords: "Bingyu, bingyu, Bingyu Zhang, Bingyu Zhang math, bingyu Zhang, bingyu Zhang math"
 description: bingyu zhang math
 ---
 url: https://byzhang.cn//
 ---
+# Sidebar settings
+sidebar: false                           
+sidebar-avatar: /title.jpg
