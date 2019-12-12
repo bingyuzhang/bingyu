@@ -1,16 +1,16 @@
-| [Home](index.md)  | [Reserch](research-en.md)    | [Teaching](teaching-en.md) | [Others](others-en.md)        | [中文](others-ch.md) |
+| [Accueil](index-fr.md)  | [Recherche](research-fr.md)    | [Enseignement](teaching-fr.md) | [Autres](others-fr.md)    |[English](others-en.md)              | [中文](others-ch.md) |
 
-# Useful links
+# Liens utiles
 
 [Institute Fourier](https://www-fourier.ujf-grenoble.fr/)
 
 [Séminaire Symplectix](http://symplectix.blogspot.com/)
 
-A [website](https://tikzcd.yichuanshen.de/) to dram commutative diagram based on tikzcd. Thanks for the author very much!
+Un [site Web] (https://tikzcd.yichuanshen.de/) pour créer un diagramme commutatif basé sur tikzcd. Merci beaucoup à l'auteur!
 
 # Cooking
 
-Regret nothing in matters of food and math.
+Ne regrette rien en matière de nourriture et de mathématiques.
 
 
 ![1](picture/1.png){:height="40%" width="40%"}![2](picture/2.png){:height="40%" width="40%"}
