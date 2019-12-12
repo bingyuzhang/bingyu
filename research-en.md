@@ -14,3 +14,5 @@ I am interested in symplectic and contact geometry/topology and relate physics. 
 - [M2 thesis](M2_thesis.pdf) is my M2 thesis in the Institute Fourier, under the supervison of Stéphane Guillermou. It provides a construction of the kernel of the projector to the category associate to cubes in symplectic linear spaces, and then prove a sheaf theory proof of a weak version of the Gromov non-squeezing theorem. As a appendant, it provides a review on some basic results of categories of sheaves we used.
 
 - On the [CAS master thesis](CAS_Thesis.pdf)(in Chinese), under the supervision of Wei-dong Ruan. I write a note on the proof of the Guillermou-Kashiwara-Schapira sheaf quantization of Hamiltionian.
+
+<meta name="googlebot" content="noindex" />
