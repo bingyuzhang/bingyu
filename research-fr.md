@@ -13,3 +13,5 @@ Je m'intéresse à la géométrie / topologie symplectique et de contact et fais
 - [Thèse M2] (M2_thesis.pdf) est ma thèse M2 à l'Institut Fourier, sous la direction de Stéphane Guillermou. Il fournit une construction du noyau du projecteur à la catégorie associée aux cubes dans les espaces linéaires symplectiques, et puis fournir une preuve de la théorie de le faisceau d'une version faible du ver Gromov non-squeezing. En tant que appendice, il fournit un examen de certains résultats de base des catégories des faisceaux que nous avons utilisées.
 
 - Sur le [mémoire de maîtrise CAS] (CAS_Thesis.pdf) (en chinois), sous la supervision de Wei-dong Ruan. J'écris une note sur la preuve de  quantification de le faisceau de Hamiltionian Guillermou-Kashiwara-Schapira.
+
+<meta name="googlebot" content="noindex" />
