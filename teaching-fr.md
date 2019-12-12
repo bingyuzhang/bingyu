@@ -1,7 +1,7 @@
-| [Home](index.md)  | [Reserch](research-en.md)    | [Teaching](teaching-en.md) | [Others](others-en.md)          | [中文](teaching-ch.md) |
+| [Accueil](index-fr.md)  | [Recherche](research-fr.md)    | [Enseignement](teaching-fr.md) | [Autres](others-fr.md)    |[English](teaching-en.md)        | [中文](teaching-ch.md) |
 
-# Teaching
+# Enseignement
 
-- 2018 Spring: TA on [linear algebra](http://www.mmrc.iss.ac.cn/~zmli/LinearAlgebra2017.html)(in Chinese) in the University of Chinese Academy of Sciences. Instructor: Prof.Ziming Li. 
+- Printemps 2018: TA sur [algèbre linéaire] (http://www.mmrc.iss.ac.cn/~zmli/LinearAlgebra2017.html) (en chinois) à l'Université de l'Académie chinoise des sciences. Instructeur: Prof.Ziming Li.
 
-- 2017 Autumn: TA on Calculus A in the University of Chinese Academy of Sciences. Instructor: Prof.Weidong Ruan. 
+- Automne 2017: TA sur le calcul A à l'Université de l'Académie chinoise des sciences. Instructeur: Prof.Wei-dong Ruan.
