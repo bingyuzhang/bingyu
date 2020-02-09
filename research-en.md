@@ -7,7 +7,7 @@ I am interested in symplectic and contact geometry/topology and relate physics. 
 
 ## Paper
 
-- Furthur study on Chiu's invariant(In preparing). In [this paper](https://arxiv.org/abs/1405.1178), Shengfu Chiu present a method to prove non-squeezing of big contact ball. But the contact inavariants he used is still intriguing. Now we are going on further on this invariants, for example try to understand the embedding problem of ellipsoids by using Chiu's invariants.
+- Furthur study on Chiu's invariant(In preparing). In [this paper](https://arxiv.org/abs/1405.1178), Shengfu Chiu present a method to prove non-squeezing of big contact ball. But the contact inavariants he used is still intriguing. Now we are going on further on these invariants, for example try to understand the embedding problem of ellipsoids by using Chiu's invariants.
 
 ## Thesis and notes
 
