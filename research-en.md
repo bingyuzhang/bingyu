@@ -8,8 +8,7 @@ I am interested in symplectic and contact geometry/topology and relate physics. 
 ## Paper
 
 - Furthur study on Chiu's invariant(In preparing). In [this paper](https://arxiv.org/abs/1405.1178), Shengfu Chiu present a method to prove non-squeezing of big contact ball. But the contact inavariants he used is still intriguing. Now we are going on further on these invariants, for example try to understand the embedding problem of ellipsoids by using Chiu's invariants. 
-
---So far, we can construct a sequence of capacities from Chis' invariant. Computationally, they are the same with the Ekeland-Hofer capacities of convex toric domain in the symplectic case. Moreover, they provide new constrains for the embedding problem of contact convex toric domains.  Motivited from the construction, we expect they are the same with the capacites constructed by [Gutt-Hutchings](https://projecteuclid.org/euclid.agt/1540605650) which is conjected to be equal to the Ekeland-Hofer capacities. Nevertheless, we hope Chiu's invariant will be same with the some version of $S^1$-equivariant symplectic homology.
+  So far, we can construct a sequence of capacities from Chis' invariant. Computationally, they are the same with the Ekeland-Hofer capacities of convex toric domain in the symplectic case. Moreover, they provide new constrains for the embedding problem of contact convex toric domains.  Motivited from the construction, we expect they are the same with the capacites constructed by [Gutt-Hutchings](https://projecteuclid.org/euclid.agt/1540605650) which is conjected to be equal to the Ekeland-Hofer capacities. Nevertheless, we hope Chiu's invariant will be same with the some version of $S^1$-equivariant symplectic homology.
 
 ## Thesis and notes
 
