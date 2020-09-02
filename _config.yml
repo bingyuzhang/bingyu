@@ -3,14 +3,3 @@ keywords: "Bingyu, bingyu, Bingyu Zhang, Bingyu Zhang math, bingyu Zhang, bingyu
 description: Université Grenoble Alpes
 url: https://byzhang.cn/
 markdown: kramdown
-<head>
-    <script type="text/javascript" async
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?...">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
