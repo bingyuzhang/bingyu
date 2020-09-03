@@ -27,7 +27,7 @@
 
 body {
   padding: 0;
-  margin: -10px;
+  margin: -60px;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -43,8 +43,8 @@ body {
 
   &:focus {
     position: fixed;
-    top: 15px;
-    left: 15px;
+    top: 30px;
+    left: 30px;
     height: auto;
     width: auto;
     background: invert($body-link-color);
