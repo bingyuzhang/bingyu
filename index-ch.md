@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 | [主页](index-ch.md)  | [研究](research-ch.md)    | [教学](teaching-ch.md)     |[其它](others-ch.md)    | [English](index.md) |
 
 * * *
@@ -5,7 +10,9 @@
 
 我是张秉宇(Bingyu Zhang).
 
-目前, 我是Institute Fourier的第二年博士生(从2019年10月起). 我的导师是Damien Gayet(IF, UGA), Stéphane Guillermou(IF, UGA), 和Claude Viterbo(ENS Ulm).
+目前, 我是Institute Fourier的第二年博士生(从2019年10月起). 
+
+我的导师是Damien Gayet(IF, UGA), Stéphane Guillermou(IF, UGA), 和Claude Viterbo(ENS Ulm).
 
 这里是我的简历 [CV](CV.pdf)(英文版).
 
