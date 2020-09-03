@@ -27,7 +27,7 @@
 
 body {
   padding: 0;
-  margin: 60px;
+  margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -39,12 +39,12 @@ body {
   width: 1px;
   position: absolute;
   overflow: hidden;
-  top: 10px;
+  top: -10px;
 
   &:focus {
     position: fixed;
-    top: 30px;
-    left: 30px;
+    top: 10px;
+    left: 10px;
     height: auto;
     width: auto;
     background: invert($body-link-color);
@@ -64,8 +64,8 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(203, 242, 235, 0.7);
-  background-color: rgba(203, 242, 235, 0.5);
+  color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.08);
   border-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
   border-width: 1px;
@@ -73,9 +73,9 @@ a {
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
   &:hover {
-    color: rgba(203, 242, 235, 0.8);
+    color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
-    background-color: rgba(203, 242, 235, 0.5);
+    background-color: rgba(255, 255, 255, 0.2);
     border-color: rgba(255, 255, 255, 0.3);
   }
 
