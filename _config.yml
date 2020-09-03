@@ -3,3 +3,5 @@ keywords: "Bingyu, bingyu, Bingyu Zhang, Bingyu Zhang math, bingyu Zhang, bingyu
 description: Université Grenoble Alpes
 url: https://byzhang.cn/
 markdown: kramdown
+
+theme: jekyll-theme-modernist
