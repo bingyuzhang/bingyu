@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 | [Accueil](index-fr.md)  | [Recherche](research-fr.md)    | [Enseignement](teaching-fr.md) | [Autres](others-fr.md)    |[English](research-en.md)    | [中文](research-ch.md) |
 
 # Recherche
