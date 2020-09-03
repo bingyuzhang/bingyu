@@ -27,7 +27,7 @@
 
 body {
   padding: 0;
-  margin: -60px;
+  margin: 60px;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -39,7 +39,7 @@ body {
   width: 1px;
   position: absolute;
   overflow: hidden;
-  top: -10px;
+  top: 10px;
 
   &:focus {
     position: fixed;
@@ -169,7 +169,7 @@ a {
   @include large {
     max-width: 64rem;
     padding: 2rem 6rem;
-    margin: 30px auto;
+    margin: 30px length;
     font-size: 1.1rem;
   }
 
