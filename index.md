@@ -21,7 +21,7 @@ Here is my [CV](CV.pdf).
 
 Room: 309
 
-Institute Fourier, UMR 5582 du CNRS, Université Grenoble Alpes. 
+Institut Fourier, UMR 5582 du CNRS, Université Grenoble Alpes. 
 
 100, rue des maths 38610 Gières, France.  
 
