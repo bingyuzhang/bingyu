@@ -8,7 +8,7 @@ layout: default
 
 # 常用链接
 
-[Institute Fourier](https://www-fourier.ujf-grenoble.fr/)
+[Institut Fourier](https://www-fourier.ujf-grenoble.fr/)
 
 [Séminaire Symplectix](http://symplectix.blogspot.com/)
 
