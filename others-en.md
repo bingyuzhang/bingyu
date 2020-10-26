@@ -11,7 +11,7 @@ layout: default
 
 [Séminaire Symplectix](http://symplectix.blogspot.com/)
 
-A [website](https://tikzcd.yichuanshen.de/) to dram commutative diagram based on tikzcd. Thanks for the author very much!
+A [website](https://tikzcd.yichuanshen.de/) to dram commutative diagram based on tikzcd. Thanks to the author very much!
 
 # Cooking
 
