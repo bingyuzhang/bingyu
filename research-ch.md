@@ -16,7 +16,7 @@ layout: default
 
 ## 毕业论文及笔记
 
-- [M2毕业论文](M2_thesis.pdf)(英文版)是我在Fourier Institute的M2毕业论文, 导师是Stéphane Guillermou. 本文展示了一个辛线性空间中立方体对应范畴的投影函子的构造, 并且我们用它给出了Gromov非压缩定理的一个弱版本的层论证明. 作为副产品, 它也展示了一些我们用到的层范畴的基本结果.
+- [M2毕业论文](M2_thesis.pdf)(英文版)是我在Fourier Institut的M2毕业论文, 导师是Stéphane Guillermou. 本文展示了一个辛线性空间中立方体对应范畴的投影函子的构造, 并且我们用它给出了Gromov非压缩定理的一个弱版本的层论证明. 作为副产品, 它也展示了一些我们用到的层范畴的基本结果.
 
 - 在阮卫东研究员指导下, 我在[中科院硕士论文](CAS_Thesis.pdf)中完成了一个哈密顿同痕的Guillermou-Kashiwara-Schapira层量子化的笔记.
 
