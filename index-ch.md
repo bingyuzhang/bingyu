@@ -16,7 +16,7 @@ layout: default
 
 这里是我的简历 [CV](CV.pdf)(英文版).
 
-![title](title.jpg)
+![title](title.png)
 
 309室
 
