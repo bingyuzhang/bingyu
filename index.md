@@ -17,7 +17,7 @@ My advisors are Damien Gayet(IF, UGA), Stéphane Guillermou(IF, UGA), and Claude
 
 Here is my [CV](CV.pdf).
 
-<img src="me.jpeg" width="15%" height="15%">
+<img src="me.jpeg" width="25%" height="25%">
 
 Room: 309
 
