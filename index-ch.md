@@ -22,7 +22,7 @@ layout: default
 
 Institut Fourier, UMR 5582 du CNRS, Université Grenoble Alpes. 
 
-100, rue des maths 38610 Gières, France.  
+100 Rue des Mathématiques, 38610 Gières, France.
 
 E-mail: bingyu.zhang@univ-grenoble-alpes.fr
 
