@@ -22,7 +22,7 @@ Actuellement, je suis doctorant en première année de l'Institut Fourier à par
 
 Voici mon [CV] (CV.pdf).
 
-![title](title.jpg)
+![title](photo.jpeg)
 
 
 
