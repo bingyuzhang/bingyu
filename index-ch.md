@@ -16,7 +16,7 @@ layout: default
 
 这里是我的简历 [CV](CV.pdf)(英文版).
 
-![title](photo.jpeg)
+<img src="me.jpeg" width="35%" height="35%">
 
 309室
 
