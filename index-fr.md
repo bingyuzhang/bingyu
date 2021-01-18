@@ -20,7 +20,7 @@ E-mail: bingyu.zhang@univ-grenoble-alpes.fr
 
 Actuellement, je suis doctorant en première année de l'Institut Fourier à partir d'octobre 2019. Mes directeurs de these sont Damien Gayet (IF, UGA), Stéphane Guillermou (IF, UGA) et Claude Viterbo (ENS Ulm).
 
-Voici mon [CV] (CV.pdf).
+Voici mon [CV](CV.pdf).
 
 <img src="me.jpeg" width="35%" height="35%">
 
