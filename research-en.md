@@ -17,7 +17,7 @@ I am interested in symplectic and contact geometry/topology and related physics.
 
 In the [paper](https://arxiv.org/abs/1405.1178), Shengfu Chiu presents a method to prove the non-squeezing of big contact ball. But the contact invariants he used is still intriguing. 
 
-Now, in this paper, we construct a sequence of symplectic capacities from Chiu-Tamarkin complex. Computationally, they are the same as the Ekeland-Hofer capacities of convex toric domains in the symplectic case. Moreover, they provide new constraints for the embedding problem of contact convex toric domains.  Motivated from the construction and computation of convex toric domains, we expect they are the same as the capacities constructed by [Gutt-Hutchings](https://projecteuclid.org/euclid.agt/1540605650), which is defined by positive $S^1$-equivariant symplectic homology. In fact, we expect some version of identification between Chiu's complex and $S^1$-equivariant symplectic homology.
+Now, in this paper, we construct a sequence of symplectic capacities from Chiu-Tamarkin complex. Computationally, they are the same as the Ekeland-Hofer capacities of convex toric domains in the symplectic case. Moreover, they provide new constraints for the embedding problem of contact convex toric domains.  Motivated from the construction and computation of convex toric domains, we expect they are the same as the capacities constructed by [Gutt-Hutchings](https://projecteuclid.org/euclid.agt/1540605650), which is defined by positive $S^1$-equivariant symplectic homology. In fact, we expect some version of identification between Chiu-Tamarkin complex and $S^1$-equivariant symplectic homology.
 
 ## Thesis and notes
 
