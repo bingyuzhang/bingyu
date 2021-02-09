@@ -14,7 +14,7 @@ layout: default
 
 我的导师是Damien Gayet(IF, UGA), Stéphane Guillermou(IF, UGA), 和Claude Viterbo(ENS Ulm).
 
-这里是我的简历 [CV](CV.pdf)(英文版).
+这里是我的简历 [CV](Files/CV.pdf)(英文版).
 
 <img src="me.jpeg" width="35%" height="35%">
 
