@@ -12,7 +12,11 @@ layout: default
 
 ## 论文
 
-- 邱不变量的进一步研究(即将来临): 在[文](https://arxiv.org/abs/1405.1178)中, 邱聖夫展示了一种证明大切触球非压缩性的方法. 然而他使用的切触不变量仍然非常迷幻. 我们现在正在对这个不变量进行进一步研究. 目前, 我们用邱不变量构造了一列容度. 计算结果显示, 在辛凸环域上, 它们与Ekeland-Hofer容度相等. 此时, 我们的结果还给出了切触凸环域嵌入的新的障碍. 由构造和凸环域上的计算启发, 我们认为这列容度与[Gutt-Hutchings](https://projecteuclid.org/euclid.agt/1540605650)由正$S^1$等变辛同调构造的容度一致. 进一步, 我们猜测应该有邱不变量与正$S^1$等变辛同调的某种等同.
+- [Capacities from the Chiu-Tamarkin Complex/来自邱-Tamarkin复形的容度](Files/CapacitiesfromCTcomplex.pdf), 草稿. 
+
+在[文](https://arxiv.org/abs/1405.1178)中, 邱聖夫展示了一种证明大切触球非压缩性的方法. 然而他使用的切触不变量仍然非常迷幻. 
+
+在本文中, 我们用邱-Tamarkin复形构造了一列容度. 计算结果显示, 在辛凸环域上, 它们与Ekeland-Hofer容度相等. 此时, 我们的结果还给出了切触凸环域嵌入的新的障碍. 由构造和凸环域上的计算启发, 我们认为这列容度与[Gutt-Hutchings](https://projecteuclid.org/euclid.agt/1540605650)由正$S^1$等变辛同调构造的容度一致. 进一步, 我们猜测应该有邱-Tamarkin复形与正$S^1$等变辛同调的某种等同.
 
 ## 毕业论文及笔记
 
