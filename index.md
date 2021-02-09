@@ -15,7 +15,7 @@ Currently, I am a second-year Ph.D. student of the Institut Fourier from Oct. 20
 
 My advisors are Damien Gayet(IF, UGA), Stéphane Guillermou(IF, UGA), and Claude Viterbo(ENS Ulm).
 
-Here is my [CV](CV.pdf).
+Here is my [CV](Files/CV.pdf).
 
 <img src="me.jpeg" width="35%" height="35%">
 
