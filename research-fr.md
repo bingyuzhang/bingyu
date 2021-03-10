@@ -11,7 +11,7 @@ Je m'intéresse à la géométrie / topologie symplectique et de contact et fais
 
 ## Papier
 
-- Etude de Furthur sur l'invariant de Chiu (En préparation). Dans [cet article] (https://arxiv.org/abs/1405.1178), Shengfu Chiu présente une méthode pour prouver la non-squeezing d'une grosse balle de contact. Mais les inavariants de contact qu'il a utilisés sont toujours intrigants. Maintenant, nous allons plus loin sur ces invariants, par exemple essayer de comprendre le problème de plongement des ellipsoïdes en utilisant les invariants de Chiu.
+- [Capacities from the Chiu-Tamarkin Complex](https://arxiv.org/abs/2103.05143), pré-impression. 
 
 ## Thèse et notes
 
