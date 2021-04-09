@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-| [主页](index-ch.md)  | [研究](research-ch.md)    | [教学](teaching-ch.md)     |[其它](others-ch.md)    | [English](index.md) |
+| [主页](index-ch.md)  | [研究](research-ch.md)    | [教学](teaching-ch.md)     |[杂项](miscellaneous-ch.md)    | [English](index.md) |
 
 * * *
 ## 欢迎来到我的数学主页!
