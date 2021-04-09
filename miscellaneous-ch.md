@@ -12,6 +12,8 @@ layout: default
 
 [Séminaire Symplectix](http://symplectix.blogspot.com/)
 
+[researchseminars](https://researchseminars.org/)
+
 一个基于tikzcd绘制交换图的 [网站](https://tikzcd.yichuanshen.de/). 万分感谢作者!
 
 # 烹饪
