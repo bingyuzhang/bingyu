@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-| [Accueil](index-fr.md)  | [Recherche](research-fr.md)    | [Enseignement](teaching-fr.md) | [Autres](others-fr.md)    |[English](teaching-en.md)        | [中文](teaching-ch.md) |
+| [Accueil](index-fr.md)  | [Recherche](research-fr.md)    | [Enseignement](teaching-fr.md) | [Divers](miscellaneous-fr.md)    |[English](teaching-en.md)        | [中文](teaching-ch.md) |
 
 # Enseignement
 
