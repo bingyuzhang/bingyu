@@ -11,6 +11,8 @@ layout: default
 
 [Séminaire Symplectix](http://symplectix.blogspot.com/)
 
+[researchseminars](https://researchseminars.org/)
+
 Un [site Web] (https://tikzcd.yichuanshen.de/) pour créer un diagramme commutatif basé sur tikzcd. Merci beaucoup à l'auteur!
 
 # Cooking
