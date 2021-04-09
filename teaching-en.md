@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-| [Home](index.md)  | [Reserch](research-en.md)    | [Teaching](teaching-en.md) | [Others](others-en.md)          | [中文](teaching-ch.md) |
+| [Home](index.md)  | [Reserch](research-en.md)    | [Teaching](teaching-en.md) | [Miscellaneous](miscellaneous-en.md)          | [中文](teaching-ch.md) |
 
 # Teaching
 
