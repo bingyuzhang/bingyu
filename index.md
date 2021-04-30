@@ -9,11 +9,11 @@ layout: default
 * * *
 # Welcome to my homepage on mathematics!
 
-I am Bingyu Zhang(张秉宇).
+I am Bingyu Zhang (张秉宇).
 
 Currently, I am a second-year Ph.D. student of the Institut Fourier from Oct. 2019.
 
-My advisors are Damien Gayet(IF, UGA), Stéphane Guillermou(IF, UGA), and Claude Viterbo(ENS Ulm).
+My advisors are Damien Gayet (IF, UGA), Stéphane Guillermou (IF, UGA), and Claude Viterbo (ENS Ulm).
 
 Here is my [CV](Files/CV.pdf).
 
