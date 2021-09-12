@@ -29,6 +29,5 @@ E-mail: bingyu.zhang@univ-grenoble-alpes.fr
 
 
 
-{% include head.html %}
 
 
