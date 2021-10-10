@@ -11,7 +11,7 @@ layout: default
 
 I am Bingyu Zhang (张秉宇).
 
-Currently, I am a second-year Ph.D. student of the Institut Fourier from Oct. 2019.
+Currently, I am a third-year Ph.D. student of the Institut Fourier from Oct. 2019.
 
 My advisors are Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (IF, Université Grenoble Alpes), and Claude Viterbo (LMO, Université Paris-Saclay).
 
