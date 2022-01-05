@@ -14,10 +14,10 @@ I am interested in symplectic and contact geometry/topology and related physics.
 ## Paper
 
 - [Capacities from the Chiu-Tamarkin Complex](https://arxiv.org/abs/2103.05143), preprint. 
+
 - On the structure of the Chiu-Tamarkin homology. (in preparation)
 
-  In this article, we will present a pre-cyclic structure and some algebraic structure for Chiu-Tamarkin homology. Also, we establish a Viterbo isomorphism and test those structure on the homology of free loop space.
-
+   In this article, we shall give a pre-cyclic structure as well as various algebraic structures on Chiu-Tamarkin homology. We also prove a Viterbo isomorphism, demonstrating that the Chiu-Tamarkin homology is isomorphic to homology of free loop space. We will test those structures on the homology of free loop space.
 ## Thesis and notes
 
 - [M2 thesis](Files/M2_thesis.pdf) is my M2 thesis in the Institut Fourier, under the supervision of Stéphane Guillermou. It provides a construction of the kernel of the projector to the category associate with cubes in symplectic linear spaces, and then prove a sheaf theory proof of a weak version of the Gromov non-squeezing theorem. As an appendant, it provides a review of some basic results of categories of sheaves we used.
