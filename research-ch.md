@@ -14,6 +14,10 @@ layout: default
 
 - [Capacities from the Chiu-Tamarkin Complex/来自邱-Tamarkin复形的容度](https://arxiv.org/abs/2103.05143), 预印本. 
 
+- 邱-Tamarkin同调上的结构. （准备中）
+
+  我们将要在本文中展示邱-Tamarkin同调上的一个循环结构和一些代数结构。我们也证明了一个Viterbo同构。它告诉我们单位开圆盘丛的邱-Tamarkin同调同构于底空间自由圈空间的同调。我们也会在自由圈空间上测试这些结构。
+  
 ## 毕业论文及笔记
 
 - [M2毕业论文](Files/M2_thesis.pdf)(英文版)是我在Institut Fourier的M2毕业论文, 导师是Stéphane Guillermou. 本文展示了一个辛线性空间中立方体对应范畴的投影函子的构造, 并且我们用它给出了Gromov非压缩定理的一个弱版本的层论证明. 作为副产品, 它也展示了一些我们用到的层范畴的基本结果.
