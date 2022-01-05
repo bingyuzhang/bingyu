@@ -15,6 +15,7 @@ I am interested in symplectic and contact geometry/topology and related physics.
 
 - [Capacities from the Chiu-Tamarkin Complex](https://arxiv.org/abs/2103.05143), preprint. 
 - On the structure of the Chiu-Tamarkin homology. (in preparation)
+
   In this article, we will present a pre-cyclic structure and some algebraic structure for Chiu-Tamarkin homology. Also, we establish a Viterbo isomorphism and test those structure on the homology of free loop space.
 
 ## Thesis and notes
