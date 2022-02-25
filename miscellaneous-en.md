@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-| [Home](index.md)  | [Reserch](research-en.md)    | [Teaching](teaching-en.md) | [Miscellaneous](miscellaneous-en.md)        | [中文](miscellaneous-ch.md) |
+| [Home](index.md)  | [Research](research-en.md)    | [Teaching](teaching-en.md) | [Miscellaneous](miscellaneous-en.md)        | [中文](miscellaneous-ch.md) |
 
 # Useful links
 
