@@ -10,7 +10,7 @@ layout: default
 # Welcome to my homepage on mathematics!
 
 
-<div style="width:100%;">
+
             <img src="me.jpeg" align="right"  width="35%" height="35%"/>
             <p>I am Bingyu Zhang (张秉宇). My CV is here: </p>[CV](Files/CV.pdf).
             <p>Currently, I am a third-year Ph.D. student of the Institut Fourier from Oct. 2019.
