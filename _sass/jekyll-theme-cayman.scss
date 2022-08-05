@@ -113,6 +113,8 @@ a {
 
   @include large {
     padding: 5rem 6rem;
+    max-width: 72rem;
+    margin: 0 auto;
   }
 
   @include medium {
