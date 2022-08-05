@@ -12,9 +12,7 @@ layout: default
 
 <div style="width:100%;">
             <img src="me.jpeg" align="right"  width="26%" height="26%"/>
-            <p>I am Bingyu Zhang (张秉宇).  My CV is here:<a href="Files/CV.pdf">CV</a></p>
-            
-            [CV](Files/CV.pdf).
+            <p>I am Bingyu Zhang (张秉宇).  My CV is here: <a href="Files/CV.pdf">CV.</a></p>
             <p>Currently, I am a third-year Ph.D. student of the Institut Fourier from Oct. 2019.</p>
             <p>My advisors are Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (IF, Université Grenoble Alpes), and Claude Viterbo (LMO, Université Paris-Saclay).</p>
             <p>Room: 309.</p>
