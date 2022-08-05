@@ -9,11 +9,6 @@ layout: default
 * * *
 # Welcome to my homepage on mathematics!
 
-I am Bingyu Zhang (张秉宇).
-
-
-
-
 
 <div style="width:100%;">
             <img src="me.jpeg" align="right"  width="35%" height="35%"/>
@@ -22,7 +17,7 @@ I am Bingyu Zhang (张秉宇).
 
 My advisors are Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (IF, Université Grenoble Alpes), and Claude Viterbo (LMO, Université Paris-Saclay).
 
-Here is my [CV](Files/CV.pdf).</div>
+Here is my [CV](Files/CV.pdf).
 
 Room: 309
 
@@ -31,7 +26,7 @@ Institut Fourier, UMR 5582 du CNRS, Université Grenoble Alpes.
 100 Rue des Mathématiques, 38610 Gières, France.
 
 E-mail: bingyu.zhang@univ-grenoble-alpes.fr
-
+</div>
 
 
 
