@@ -8,24 +8,20 @@ layout: default
 * * *
 ## 欢迎来到我的数学主页!
 
-我是张秉宇(Bingyu Zhang).
+<br /><br />
 
-目前, 我是Institute Fourier的第三年博士生(从2019年10月起). 
 
-我的导师是Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (IF, Université Grenoble Alpes), 和Claude Viterbo (LMO, Université Paris-Saclay).
-
-这里是我的简历 [CV](Files/CV.pdf)(英文版).
-
-<img src="me.jpeg" width="35%" height="35%">
-
-309室
-
-Institut Fourier, UMR 5582 du CNRS, Université Grenoble Alpes. 
-
-100 Rue des Mathématiques, 38610 Gières, France.
-
-E-mail: bingyu.zhang@univ-grenoble-alpes.fr
-
+<div style="width:100%;">
+            <img src="me.jpeg" align="right"  width="26%" height="26%"/>
+            <p>我是张秉宇(Bingyu Zhang). 这里是我的 <a href="Files/CV.pdf">简历(英文版).</a></p>
+            <p>目前, 我是Institute Fourier的第三年博士生(从2019年10月起).</p>
+            <p>我的导师是Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (IF, Université Grenoble Alpes), 和Claude Viterbo (LMO, Université Paris-Saclay).</p>
+            <br /><br />
+            <p>309室.</p>
+            <p>Institut Fourier, UMR 5582 du CNRS, Université Grenoble Alpes. </p>
+            <p>100 Rue des Mathématiques, 38610 Gières, France.</p>
+            <p>E-mail: bingyu.zhang@univ-grenoble-alpes.fr</p>
+</div>
 
 
 {% include head.html %}
