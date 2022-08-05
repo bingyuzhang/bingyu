@@ -12,11 +12,11 @@ layout: default
 
 <div style="width:100%;">
             <img src="me.jpeg" align="right"  width="35%" height="35%"/>
-            <p>I am Bingyu Zhang (张秉宇).</p>
+            <p>I am Bingyu Zhang (张秉宇). My CV is here: </p>[CV](Files/CV.pdf).
             <p>Currently, I am a third-year Ph.D. student of the Institut Fourier from Oct. 2019.
             <p>My advisors are Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (IF, Université Grenoble Alpes), and Claude Viterbo (LMO, Université Paris-Saclay).</p>
 
-<p>Here is my [CV](Files/CV.pdf).</p>
+
 
 <p>Room: 309</p>
 
@@ -25,7 +25,7 @@ layout: default
 <p>100 Rue des Mathématiques, 38610 Gières, France.</p>
 
 <p>E-mail: bingyu.zhang@univ-grenoble-alpes.fr</p>
-</div>
+
 
 
 
