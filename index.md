@@ -8,6 +8,7 @@ layout: default
 
 * * *
 # Welcome to my homepage on mathematics!
+<br /><br />
 
 
 <div style="width:100%;">
