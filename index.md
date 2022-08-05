@@ -15,17 +15,10 @@ layout: default
             <p>I am Bingyu Zhang (张秉宇). My CV is here: </p>[CV](Files/CV.pdf).
             <p>Currently, I am a third-year Ph.D. student of the Institut Fourier from Oct. 2019.</p>
             <p>My advisors are Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (IF, Université Grenoble Alpes), and Claude Viterbo (LMO, Université Paris-Saclay).</p>
-
-
-
 <p>Room: 309</p>
-
 <p>Institut Fourier, UMR 5582 du CNRS, Université Grenoble Alpes. </p>
-
 <p>100 Rue des Mathématiques, 38610 Gières, France.</p>
-
 <p>E-mail: bingyu.zhang@univ-grenoble-alpes.fr</p>
-
 </div>
 
 
