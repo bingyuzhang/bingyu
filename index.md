@@ -17,9 +17,7 @@ My advisors are Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guiller
 
 Here is my [CV](Files/CV.pdf).
 
-<p style="text-align: center;">
-<img src="me.jpeg" width="35%" height="35%">
-</p>
+<div align="center"><img src="me.jpeg" width="35%" height="35%"></div> 
 
 Room: 309
 
