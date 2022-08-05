@@ -1,1 +1,17 @@
+body {
+	background-color: #B8F0E2;
+}
 
+
+.main-content{
+	position: absolute;
+	pandding 40px;
+	left: 50%;
+	transform: translate(-50%,10%);
+}
+
+.box{
+	pandding 40px;
+	background-color: #B1B5B4;
+	color=black;
+}
