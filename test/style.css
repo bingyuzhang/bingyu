@@ -5,10 +5,9 @@ body {
 
 
 .main-content{
-	position: absolute;
-	pandding 40px;
-	left: 50%;
-	transform: translate(-50%,10%);
+	max-width: 72rem;
+	padding: 4rem 4rem;
+	margin: 0 auto;
 }
 
 .box{
