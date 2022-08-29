@@ -21,7 +21,7 @@ layout: default
             <p>Institut Fourier, UMR 5582 du CNRS, Université Grenoble Alpes. </p>
             <p>100 Rue des Mathématiques, 38610 Gières, France.</p>
             <p>E-mail: bingyuzhang@imada.sdu</p>
-            <p>bingyu.zhang@univ-grenoble-alpes.fr (Aviable before Dec. 2022)</p>
+            <p>bingyu.zhang@univ-grenoble-alpes.fr (Available before Dec. 2022)</p>
 </div>
 
 
