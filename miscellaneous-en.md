@@ -13,7 +13,7 @@ layout: default
 
 [researchseminars](https://researchseminars.org/)
 
-A [website](https://tikzcd.yichuanshen.de/) to dram commutative diagram based on tikzcd. Thanks to the author very much!
+A [website](https://tikzcd.yichuanshen.de/) to dram commutative diagrams based on tikzcd. Thanks to the author very much!
 
 # Cooking
 
