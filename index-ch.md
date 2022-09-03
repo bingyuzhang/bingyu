@@ -14,8 +14,8 @@ layout: default
 <div style="width:100%;">
             <img src="me.jpeg" align="right"  width="26%" height="26%"/>
             <p>我是张秉宇(Bingyu Zhang). 这里是我的 <a href="Files/CV.pdf">简历(英文版)</a>.</p>
-            <p>目前, 我是南丹麦大学的博士后，与Vivek Shende一起工作。</p>
-            <p>我在2022年9月于Institute Fourier被授予博士学位。我的导师是Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (LMJL, Université de Nantes), 和Claude Viterbo (LMO, Université Paris-Saclay).</p>
+            <p>目前, 我是南丹麦大学的博士后，与Vivek Shende一起工作.</p>
+            <p>2022年9月, 我在Institute Fourier, Université Grenoble Alpes被授予博士学位。我的导师是Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (LMJL, Université de Nantes), 和Claude Viterbo (LMO, Université Paris-Saclay).</p>
             <br /><br />
             <p>309室.</p>
             <p>Institut Fourier, UMR 5582 du CNRS, Université Grenoble Alpes. </p>
