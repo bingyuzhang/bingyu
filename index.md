@@ -14,8 +14,8 @@ layout: default
 <div style="width:100%;">
             <img src="me.jpeg" align="right"  width="26%" height="26%"/>
             <p>I am Bingyu Zhang (张秉宇).  My CV is here: <a href="Files/CV.pdf">CV</a>.</p>
-            <p>Currently, I am a Post-Doc from Sep. 2022. I am working with Vivek Shende.</p>
-            <p>I obtain my Ph.D. degree on Sep. 2022 at Institut Fourier under supervision of Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (IF, Université Grenoble Alpes), and Claude Viterbo (LMO, Université Paris-Saclay).</p>
+            <p>Currently, I am a Post-Doc at the University of Southern Denmark (SDU). I am working with Vivek Shende.</p>
+            <p>I obtain my Ph.D. degree on Sep. 2022 at Institut Fourier under supervision of Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (LMJL, Université de Nantes), and Claude Viterbo (LMO, Université Paris-Saclay).</p>
             <br /><br />
             <p>Room: 309.</p>
             <p>Institut Fourier, UMR 5582 du CNRS, Université Grenoble Alpes. </p>
