@@ -22,7 +22,7 @@ I am interested in symplectic and contact geometry/topology and related physics.
 
 - [PhD Thesis](Files/PhD_Thesis.pdf) is my PhD thesis. It consists of the two papers above with more details. Specifically, we study the cup product on the non-equivariant Chiu-Tamarkin complex and the $S^1$-equivariant Chiu-Tamarkin complex, and we define capacities using various versions of Chiu-Tamarkin complexes. Last, we make some computations for the convex toric domains and the unit disk bundle. Comments are welcome!
 
-- [Generating functions and Sheaves](Files/GF-Sheaves.pdf) is a note for a short lecture within CIRM Spring School on Symplectic and Contact Topology in 2021. The short lecture given by Sylvain Courte introduces the basic notions of generating functions and sheaves.
+- [Generating functions and Sheaves](Files/GF-Sheaves.pdf) is a note for a short lecture within CIRM Spring School on Symplectic and Contact Topology in 2021. The short lecture, given by Sylvain Courte, introduces the basic notions of generating functions and sheaves.
 
 - [M2 thesis](Files/M2_thesis.pdf) is my M2 thesis in Institut Fourier under the supervision of Stéphane Guillermou. It provides a specific construction for the kernel of the projector to the category associated with cubes in symplectic linear spaces.
 
