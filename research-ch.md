@@ -22,7 +22,7 @@ layout: default
 
 - [PhD Thesis](Files/PhD_Thesis.pdf) 是我的博士论文的. 本文由上述两篇论文组成, 并补充部分细节. 具体而言, 我们定义了非等变邱-Tamarkin上的杯积和$S^1$-等变邱-Tamarkin复形, 并用各版本的邱-Tamarkin复形定义了诸多容度. 之后, 我们对凸环域和单位圆盘丛做了一些计算. 欢迎评注!
 
-- [Generating functions and Sheaves](Files/GF-Sheaves.pdf)是CIRM在2021举办的辛拓扑与切触拓扑春季学校的笔记. 主讲Sylvain Courte, 主要介绍了生成函数和层论的基本概念.
+- [Generating functions and Sheaves](Files/GF-Sheaves.pdf)是CIRM在2021举办的辛拓扑与切触拓扑春季学校的一个短课的笔记. 主讲Sylvain Courte, 主要介绍了生成函数和层论的基本概念.
 
 - [M2毕业论文](Files/M2_thesis.pdf)(英文版)是我在Institut Fourier的M2毕业论文, 导师是Stéphane Guillermou. 本文展示了一个辛线性空间中立方体对应范畴的投影函子的构造, 并且我们用它给出了Gromov非压缩定理的一个弱版本的层论证明. 作为副产品, 它也展示了一些我们用到的层范畴的基本结果.
 
