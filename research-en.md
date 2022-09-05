@@ -24,7 +24,7 @@ I am interested in symplectic and contact geometry/topology and related physics.
 
 - [Generating functions and Sheaves](Files/GF-Sheaves.pdf) is a note for a short lecture within CIRM Spring School on Symplectic and Contact Topology in 2021. The short lecture given by Sylvain Courte introduces the basic notions of generating functions and sheaves.
 
-- [M2 thesis](Files/M2_thesis.pdf) is my M2 thesis in the Institut Fourier, under the supervision of Stéphane Guillermou. It provides a construction of the kernel of the projector to the category associate with cubes in symplectic linear spaces, and then prove a sheaf theory proof of a weak version of the Gromov non-squeezing theorem. As an appendant, it provides a review of some basic results of categories of sheaves we used.
+- [M2 thesis](Files/M2_thesis.pdf) is my M2 thesis in Institut Fourier under the supervision of Stéphane Guillermou. It provides a specific construction for the kernel of the projector to the category associated with cubes in symplectic linear spaces.
 
 - On the [CAS master thesis](Files/CAS_Thesis.pdf) (in Chinese), under the supervision of Wei-dong Ruan. I write a note on the proof of the Guillermou-Kashiwara-Schapira sheaf quantization of Hamiltonian.
 
