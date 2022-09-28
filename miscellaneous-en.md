@@ -15,7 +15,7 @@ layout: default
 
 A [website](https://tikzcd.yichuanshen.de/) to dram commutative diagrams based on tikzcd. Thanks to the author very much!
 
-# Cooking
+# [Cooking](Cooking.md)
 
 Regret nothing in matters of food and math.
 
