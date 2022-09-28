@@ -12,7 +12,7 @@ layout: default
 
 <center>Myself, around 1 years old.</center>
 
-<center><img src="phddefence.jpg" width="40%" height="40%"/></center>
+<center><img src="picture/phddefence.jpg" width="40%" height="40%"/></center>
 
 
 <center>Group photo for my PhD defence at 02/09/2022.
