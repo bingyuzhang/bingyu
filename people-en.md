@@ -15,7 +15,7 @@ Myself, around 1 years old.
 <div style="width:100%;">
             <img src="title.png" align="left"  width="40%" height="40%"/>
             
-            <div class="txtCenter">Myself, around 1 years old.</div> 
+            <div class="txtCenter"><p>Myself, around 1 years old.<p></div> 
             
 </div>
 
