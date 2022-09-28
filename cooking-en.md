@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-| [Miscellaneous](miscellaneous-en.md)        |
+| [Home](index.md)  | [Research](research-en.md)    | [Teaching](teaching-en.md) | [Miscellaneous](miscellaneous-en.md)        | [中文](cooking-ch.md) |
 
 # Cooking
 
