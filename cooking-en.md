@@ -3,8 +3,6 @@ layout: default
 ---
 | [Home](index.md)  | [Research](research-en.md)    | [Teaching](teaching-en.md) | [Miscellaneous](miscellaneous-en.md)        | [中文](cooking-ch.md) |
 
-# Cooking
-
 Regret nothing in matters of food and math.
 
 
