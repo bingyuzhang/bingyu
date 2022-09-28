@@ -12,6 +12,19 @@ layout: default
 
 <center>Myself, around 1 years old.</center>
 
+<center><img src="phddefence.jpg" width="40%" height="40%"/></center>
+
+
+<center>Group photo for my PhD defence at 02/09/2022.
+<br /><br />
+  From left: Damien Gayet, Erwan Lanneau, me, Klaus Niederkrüger, Stéphane Guillermou, Claude Viterbo.
+</center>
+
+
+
+
+
+
 
 
 
