@@ -16,7 +16,7 @@ layout: default
 
 
 <center>Group photo for my PhD defence at 02/09/2022.
-<br /><br />
+<br />
   From left: Damien Gayet, Erwan Lanneau, me, Klaus Niederkrüger, Stéphane Guillermou, Claude Viterbo.
 </center>
 
