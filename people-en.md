@@ -3,9 +3,9 @@ layout: default
 ---
 | [Home](index.md)  | [Research](research-en.md)    | [Teaching](teaching-en.md) | [Miscellaneous](miscellaneous-en.md)        | [中文](people-ch.md) |
 
-# People
+<h1 style="text-align:center">Thanks every one in my life! </h1>
 
-Thanks every one in my life!
+
 
 <center><img src="title.png" width="40%" height="40%"/></center>
 
