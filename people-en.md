@@ -9,11 +9,10 @@ layout: default
 
 <center><img src="title.png" width="40%" height="40%"/></center>
 
-
 <center>Myself, around 1 years old.</center>
 
+<br /><br />
 <center><img src="picture/phddefence.jpg" width="40%" height="40%"/></center>
-
 
 <center>Group photo for my PhD defence on 02/09/2022 at IF.
 <br />
@@ -23,7 +22,7 @@ layout: default
 <br /><br />
 <center><img src="picture/masterdefence.jpg" width="40%" height="40%"/></center>
 
-<center>Group photo for my Master defence on 22/05/2018 at AMSS, CAS.
+<center>Group photo for my master defence on 22/05/2018 at AMSS, CAS.
 <br />
   From left: Huijun Fan, me, Weidong Ruan, Wenwei Li, Xiaokui Yang.
 </center>
@@ -61,7 +60,7 @@ La Journée scientifique en hommage à Jean-Pierre Demailly.
 </center>
 
 <br /><br />
-<center><img src="picture/xucheng-yichen.jpg" width="40%" height="40%"/></center>
+<center><img src="picture/chenyu-yichen.jpg" width="40%" height="40%"/></center>
 
 <center>With Chenyu Bai and Yichen Qin on 07/2022 at Eiffel Tower.
 </center>
@@ -87,13 +86,13 @@ La Journée scientifique en hommage à Jean-Pierre Demailly.
 <br /><br />
 <center><img src="picture/xucheng-yuren.jpg" width="40%" height="40%"/></center>
 
-<center>With Xucheng Zhang and Yuren Zhou in 2018 at AMSS, CAS.
+<center>With Yuren Zhou and Xucheng Zhang in 2018 at AMSS, CAS.
 </center>
 
 <br /><br />
 <center><img src="picture/lingen-xiaoling-danhua.jpg" width="40%" height="40%"/></center>
 
-<center>With (from left) Linggen Ding, Xiaoling Liao and Danhua Wu in 2018,<br/> at School of Mathematics Hunan University.
+<center>With Linggen Ding, Xiaoling Liao and Danhua Wu in 2018,<br/> at School of Mathematics Hunan University.
 </center>
 
 
