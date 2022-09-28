@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| [杂项](miscellaneous-cn.md)        |
+| [杂项](miscellaneous-ch.md)        |
 
 # 烹饪
 
