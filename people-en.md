@@ -15,7 +15,7 @@ Myself, around 1 years old.
 
 
 <dl>
-            <dd><img src="title.png" align="left"  width="40%" height="40%"/><a>Myself, around 1 years old.</a></dd> 
+            <dd> <img src="title.png" align="left"  width="40%" height="40%"/>   <a>Myself, around 1 years old.</a>  </dd> 
             
 </dl>
 
