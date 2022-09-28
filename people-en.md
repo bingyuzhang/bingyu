@@ -7,11 +7,11 @@ layout: default
 
 Thanks every one in my life!
 
-<center>
-![1](title.png){:height="40%" width="40%"}</center>
 
-<center>Myself, around 1 years old.
-</center>
+![1](title.png){:height="40%" width="40%"}
+
+Myself, around 1 years old.
+
 
 
 
