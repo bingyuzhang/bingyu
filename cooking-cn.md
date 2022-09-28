@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-基于tikzcd绘制交换图的 [网站](https://tikzcd.yichuanshen.de/). 万分感谢作者!
+
+| [杂项](miscellaneous-cn.md)        |
 
 # 烹饪
 
