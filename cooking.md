@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+| [Miscellaneous](miscellaneous-en.md)        |
 
 # Cooking
 
