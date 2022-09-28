@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| [杂项](miscellaneous-ch.md)        |
+| [主页](index-ch.md)  | [研究](research-ch.md)    | [教学](teaching-ch.md)     |[杂项](miscellaneous-ch.md) |[English](cooking-en.md)|   
 
 # 烹饪
 
