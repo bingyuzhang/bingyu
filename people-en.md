@@ -7,8 +7,8 @@ layout: default
 
 Thanks every one in my life!
 
+<center><img src="title.png" width="40%" height="40%"/></center>
 
-![1](title.png){:height="40%" width="40%"}
 
 <center>Myself, around 1 years old.</center>
 
