@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Cooking
 
 Regret nothing in matters of food and math.
