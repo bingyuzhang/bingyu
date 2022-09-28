@@ -15,8 +15,8 @@ layout: default
 
 A [website](https://tikzcd.yichuanshen.de/) to dram commutative diagrams based on tikzcd. Thanks to the author very much!
 
-# [Cooking](cooking.md)
+# [Cooking](cooking-en.md)
 
-# [People](people.md)
+# [People](people-en.md)
 
 <meta name="googlebot" content="noindex" />
