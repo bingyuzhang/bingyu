@@ -8,6 +8,10 @@ layout: default
 
 # 常用链接
 
+[Centre for Quantum Mathematics of SDU](https://www.sdu.dk/en/forskning/qm)
+
+[Department of Mathematics and Computer Science of SDU](https://www.sdu.dk/en/imada)
+
 [Institut Fourier](https://www-fourier.ujf-grenoble.fr/)
 
 [Séminaire Symplectix](http://symplectix.blogspot.com/)
