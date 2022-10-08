@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-| [Home](index.md)  | [Research](research-en.md)    | [Teaching](teaching-en.md) | [Miscellaneous](miscellaneous-en.md)        | [中文](people-ch.md) |
+
+| [主页](index-ch.md)  | [研究](research-ch.md)    | [教学](teaching-ch.md)         |[杂项](miscellaneous-ch.md) | [English](people-en.md) |
 
 <h1 style="text-align:center">感谢我生命中的每个人! </h1>
 
