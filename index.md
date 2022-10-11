@@ -17,9 +17,8 @@ layout: default
             <p>Currently, I am a Post-Doc at Centre for Quantum Mathematics in the University of Southern Denmark (SDU). I am working with Vivek Shende.</p>
             <p>I received my PhD degree on Sep. 2022 from Institut Fourier at Université Grenoble Alpes under the supervision of Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (LMJL, Université de Nantes), and Claude Viterbo (LMO, Université Paris-Saclay).</p>
             <br /><br />
-            <p>Room: 309.</p>
-            <p>Institut Fourier, UMR 5582 du CNRS, Université Grenoble Alpes. </p>
-            <p>100 Rue des Mathématiques, 38610 Gières, France.</p>
+            <p>Room: Ø11-403a-2, Syddansk Universitet. </p>
+            <p>Campusvej 55, 5230 Odense, Denmark.</p>
             <p>E-mail: bingyuzhang@imada.sdu.dk</p>
             <p>bingyu.zhang@univ-grenoble-alpes.fr (Available before Dec. 2022)</p>
 </div>
