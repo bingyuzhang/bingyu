@@ -24,4 +24,6 @@ layout: default
 
 # [人物](people-cn.md)
 
+[纪念Jean-Pierre Demailly](test/JPDemailly.html)
+
 <meta name="googlebot" content="noindex" />
