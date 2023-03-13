@@ -23,4 +23,6 @@ A [website](https://tikzcd.yichuanshen.de/) to dram commutative diagrams based o
 
 # [People](people-en.md)
 
+[In memory of Jean-Pierre Demailly](test/JPDemailly.html)
+
 <meta name="googlebot" content="noindex" />
