@@ -24,6 +24,6 @@ layout: default
 
 # [人物](people-cn.md)
 
-[纪念Jean-Pierre Demailly](test/JPDemailly.html)
+[纪念Jean-Pierre Demailly](https://xiaojun-wu-0127.github.io/JPDemailly/JPDemailly.html)
 
 <meta name="googlebot" content="noindex" />
