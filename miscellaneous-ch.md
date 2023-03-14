@@ -12,6 +12,8 @@ layout: default
 
 [Department of Mathematics and Computer Science of SDU](https://www.sdu.dk/en/imada)
 
+[纪念Jean-Pierre Demailly](https://xiaojun-wu-0127.github.io/JPDemailly/JPDemailly.html)
+
 [Institut Fourier](https://www-fourier.ujf-grenoble.fr/)
 
 [Séminaire Symplectix](http://symplectix.blogspot.com/)
@@ -24,6 +26,6 @@ layout: default
 
 # [人物](people-cn.md)
 
-[纪念Jean-Pierre Demailly](https://xiaojun-wu-0127.github.io/JPDemailly/JPDemailly.html)
+
 
 <meta name="googlebot" content="noindex" />
