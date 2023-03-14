@@ -11,6 +11,8 @@ layout: default
 
 [Department of Mathematics and Computer Science of SDU](https://www.sdu.dk/en/imada)
 
+[In memory of Jean-Pierre Demailly (in Chinese)](https://xiaojun-wu-0127.github.io/JPDemailly/JPDemailly.html)
+
 [Institut Fourier](https://www-fourier.ujf-grenoble.fr/)
 
 [Séminaire Symplectix](http://symplectix.blogspot.com/)
@@ -23,6 +25,6 @@ A [website](https://tikzcd.yichuanshen.de/) to dram commutative diagrams based o
 
 # [People](people-en.md)
 
-[In memory of Jean-Pierre Demailly (in Chinese)](https://xiaojun-wu-0127.github.io/JPDemailly/JPDemailly.html)
+
 
 <meta name="googlebot" content="noindex" />
