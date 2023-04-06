@@ -13,10 +13,19 @@ layout: default
 ## 论文
 
 - [Capacities from the Chiu-Tamarkin Complex/来自邱-Tamarkin复形的容度](https://arxiv.org/abs/2103.05143), 预印本. 
+ 
+- 微局部核的幂等性与$S^1$等变邱-Tamarkin复形. （可来信索取初步版本）
+  我们将展示一些列基于微局部核的幂等性产生的结果与构造，包括：（1）$\mathbb{Z}/\ell$等变邱-Tamarkin复形定义的一个自然解释； （2）非等变邱-Tamarkin复形的一个分次交换乘积；（3）$S^1$等变邱-Tamarkin复形的一个构造。作为应用，我们：（1）用$S^1$等变邱-Tamarkin复形构造了一列容度，并在一定条件下证明了他们和我们之前用$\mathbb{Z}/\ell$等变邱-Tamarkin复形定义的容度相等；（2）证明了一个Viterbo同构。在附录中，我们在三角范畴的情形证明余切丛中所有的开集都有微局部核。
 
-- 邱-Tamarkin同调上的结构. （准备中）
+   
+- 大尺度切触非挤压定理的生成函数证明。与Maia Fraser和Sheila Sandon合作. (准备中)
 
-  我们将要在本文中展示邱-Tamarkin同调上的一个循环结构和一些代数结构。借助循环结构，我们能构造一个$S^1$-等变邱-Tamarkin复形，并解释为何在切除非挤压定理的证明中$\mathbb{Z}/\ell$-作用是本质的。我们还证明了一个Viterbo同构。它告诉我们单位开圆盘丛的邱-Tamarkin同调同构于底空间自由圈空间的同调。我们也会在自由圈空间上测试这些结构。
+  我们将用生成函数同调证明大球的切触非挤压定理。我们的工具是一个新的$\mathbb{Z}/\ell$等变生成函数同调。
+  
+- 邱-Tamarkin复形作为Hochschild上同调。（准备中）
+   
+  我们将证明邱-Tamarkin复形同构于Tamarkin范畴的Hochschild上同调。我们也会发展谱系数的邱-Tamarkin复形理论，可以期待它是余切丛中开集的谱系数闭弦不变量。
+   
   
 ## 毕业论文及笔记
 
