@@ -21,7 +21,7 @@ I am interested in symplectic and contact geometry/topology and related physics.
    
 - Contact Non-squeezing at Large Scale via Generating functions. Joint with Maia Fraser and Sheila Sandon. (in preparation)
   
-  We will prove the contact non-squeezing theorem for big balls using generating function homology. Our basic tool is a new $\mathbb{Z}/k$-equivariant generating function homology.
+  We will prove the contact non-squeezing theorem for big balls using generating function homology. Our tool is a new $\mathbb{Z}/k$-equivariant generating function homology.
    
  - Chiu-Tamarkin complex as Hochschild cohomology. (in preparation)
    
