@@ -15,9 +15,15 @@ I am interested in symplectic and contact geometry/topology and related physics.
 
 - [Capacities from the Chiu-Tamarkin Complex](https://arxiv.org/abs/2103.05143), preprint. 
 
-- On the structure of the Chiu-Tamarkin homology. (in preparation)
+- Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin complex. (Available upon request)
 
-   In this article, we shall give a cyclic structure as well as various algebraic structures on Chiu-Tamarkin homology. Using the cyclic structure, we can define a version of $S^1$-equivariant Chiu-Tamarkin complex, and explain how we use essentially the $\mathbb{Z}/\ell$-action on the proof of the contact non-squeezing. We also prove a Viterbo isomorphism, demonstrating that the Chiu-Tamarkin homology of open-disk bundle is isomorphic to homology of free loop space. We will test those structures on the homology of free loop space.
+   We present a series of results and constructions about the Chiu-Tamarkin complex that are motivated by the idempotence of microlocal kernels, including: (1) a natural explanation for the definition of the $\bZ/\ell$-equivariant Chiu-Tamarkin complex; (2) a graded commutative product on the non-equivariant Chiu-Tamarkin complex; and (3) a construction of the $S^1$-equivariant Chiu-Tamarkin complex. As applications, we: (1) construct a sequence of symplectic capacities $(\overline{c}_k)_{k\in \bN}$ and prove that it coincides with the symplectic capacities $({c}_k)_{k\in \bN}$ we defined using the $\bZ/\ell$-equivariant Chiu-Tamarkin complex under certain conditions; and (2) prove a Viterbo isomorphism. In the appendix, we provide a proof of admissibility for all open sets in a cotangent bundle under the setup of the triangulated category.
+   
+- Contact Non-squeezing at Large Scale via Generating functions. Joint with Maia Fraser and Sheila Sandon. (in preparation)
+  We will prove the contact non-squeezing theorem for big balls using generating function homology. Our basic tool is a new $\mathhbb{Z}/k$-equivariant generating function homology.
+   
+ - Chiu-Tamarkin complex as Hochschild cohomology. (in preparation)
+   We prove that the Chiu-Tamarkin complex is isomorphic to the Hochschild cohomology of the Tamarkin category. We also develop the Chiu-Tamarkin complex of spectrum coefficient, which is a candidate for spectrum coefficient closed string invariant for open sets in cotangent bundles.
 ## Thesis and notes
 
 - [PhD Thesis](Files/PhD_Thesis.pdf) is my PhD thesis. It consists of the two papers above with more details. Specifically, we study the cup product on the non-equivariant Chiu-Tamarkin complex and the $S^1$-equivariant Chiu-Tamarkin complex, and we define capacities using various versions of Chiu-Tamarkin complexes. Last, we make some computations for the convex toric domains and the unit disk bundle. Comments are welcome!
