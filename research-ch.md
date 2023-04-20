@@ -18,13 +18,13 @@ layout: default
   我们将展示一些列基于微局部核的幂等性产生的结果与构造，包括：（1）$\mathbb{Z}/\ell$等变邱-Tamarkin复形定义的一个自然解释； （2）非等变邱-Tamarkin复形的一个分次交换乘积；（3）$S^1$等变邱-Tamarkin复形的一个构造。作为应用，我们：（1）用$S^1$等变邱-Tamarkin复形构造了一列容度，并在一定条件下证明了他们和我们之前用$\mathbb{Z}/\ell$等变邱-Tamarkin复形定义的容度相等；（2）证明了一个Viterbo同构。在附录中，我们在三角范畴的情形证明余切丛中所有的开集都有微局部核。
 
    
-- 大尺度切触非挤压定理的生成函数证明。与Maia Fraser和Sheila Sandon合作. (准备中)
+- 大尺度切触非挤压定理的生成函数证明。与Maia Fraser和Sheila Sandon合作。 (准备中)
 
   我们将用生成函数同调证明大球的切触非挤压定理。我们的工具是一个新的$\mathbb{Z}/\ell$等变生成函数同调。
   
-- 邱-Tamarkin复形作为Hochschild上同调。（准备中）
+- 邱-Tamarkin复形作为Hochschild上同调。与Christopher Kuo合作。（准备中）
    
-  我们将证明邱-Tamarkin复形同构于Tamarkin范畴的Hochschild上同调。我们也会发展谱系数的邱-Tamarkin复形理论，可以期待它是余切丛中开集的谱系数闭弦不变量。
+  我们试图用Tamarkin范畴的Hochschild(上)同调给邱-Tamarkin复形一个概念性解释。我们也会发展谱系数的邱-Tamarkin复形理论，可以期待它是余切丛中开集的谱系数闭弦不变量。
    
   
 ## 毕业论文及笔记
