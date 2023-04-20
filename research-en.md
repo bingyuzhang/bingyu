@@ -23,9 +23,9 @@ I am interested in symplectic and contact geometry/topology and related physics.
   
   We will prove the contact non-squeezing theorem for big balls using generating function homology. Our tool is a new $\mathbb{Z}/k$-equivariant generating function homology.
    
- - Chiu-Tamarkin complex as Hochschild cohomology. (in preparation)
+ - Chiu-Tamarkin complex as Hochschild (co)homology. Joint with Christopher Kuo. (in preparation)
    
-   We prove that the Chiu-Tamarkin complex is isomorphic to the Hochschild cohomology of the Tamarkin category. We also develop the Chiu-Tamarkin complex of spectrum coefficient, which is a candidate for spectrum coefficient closed string invariant for open sets in cotangent bundles.
+   We try to explain Chiu-Tamarkin complex conceptrally in terms of the Hochschild (co)homology of the Tamarkin category. We also develop the Chiu-Tamarkin complex of spectrum coefficient, which is a candidate for spectrum coefficient closed string invariant for open sets in cotangent bundles.
 ## Thesis and notes
 
 - [PhD Thesis](Files/PhD_Thesis.pdf) is my PhD thesis. It consists of the two papers above with more details. Specifically, we study the cup product on the non-equivariant Chiu-Tamarkin complex and the $S^1$-equivariant Chiu-Tamarkin complex, and we define capacities using various versions of Chiu-Tamarkin complexes. Last, we make some computations for the convex toric domains and the unit disk bundle. Comments are welcome!
