@@ -12,23 +12,22 @@ layout: default
 
 ## 论文
 
-- [Capacities from the Chiu-Tamarkin Complex/来自邱-Tamarkin复形的容度](https://arxiv.org/abs/2103.05143), 预印本. 
- 
-- [微局部核的幂等性与$S^1$等变邱-Tamarkin不变量](https://arxiv.org/abs/2306.12316), 预印本. 
-
+- 邱-Tamarkin复形作为Hochschild上同调。与Christopher Kuo合作。（准备中）
+   
+  我们试图用Tamarkin范畴的Hochschild(上)同调给邱-Tamarkin复形一个概念性解释。我们也会发展谱系数的邱-Tamarkin复形理论，可以期待它是余切丛中开集的谱系数闭弦不变量。
    
 - 大尺度切触非挤压定理的生成函数证明。与Maia Fraser和Sheila Sandon合作。 (准备中)
 
   我们将用生成函数同调证明大球的切触非挤压定理。我们的工具是一个新的$\mathbb{Z}/\ell$等变生成函数同调。
   
-- 邱-Tamarkin复形作为Hochschild上同调。与Christopher Kuo合作。（准备中）
-   
-  我们试图用Tamarkin范畴的Hochschild(上)同调给邱-Tamarkin复形一个概念性解释。我们也会发展谱系数的邱-Tamarkin复形理论，可以期待它是余切丛中开集的谱系数闭弦不变量。
-   
+- [微局部核的幂等性与$S^1$等变邱-Tamarkin不变量](https://arxiv.org/abs/2306.12316), 预印本. 
+
+- [Capacities from the Chiu-Tamarkin Complex/来自邱-Tamarkin复形的容度](https://arxiv.org/abs/2103.05143), 预印本. 
+     
   
 ## 毕业论文及笔记
 
-- [PhD Thesis](Files/PhD_Thesis.pdf) 是我的博士论文的. 本文由前两篇论文组成, 但互有补充。
+- [PhD Thesis](Files/PhD_Thesis.pdf) 是我的博士论文的. 本文由上述最后两篇论文组成, 但并非简单组合，互有补充。
 
 - [Generating functions and Sheaves](Files/GF-Sheaves.pdf)是CIRM在2021举办的辛拓扑与切触拓扑春季学校的一个短课的笔记. 主讲Sylvain Courte, 主要介绍了生成函数和层论的基本概念.
 
