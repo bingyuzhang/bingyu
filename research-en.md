@@ -26,7 +26,7 @@ I am interested in symplectic and contact geometry/topology and related physics.
    We try to explain Chiu-Tamarkin complex conceptrally in terms of the Hochschild (co)homology of the Tamarkin category. We also develop the Chiu-Tamarkin complex of spectrum coefficient, which is a candidate for spectrum coefficient closed string invariant for open sets in cotangent bundles.
 ## Thesis and notes
 
-- [PhD Thesis](Files/PhD_Thesis.pdf) is my PhD thesis. It consists of the two papers above with more details. Specifically, we study the cup product on the non-equivariant Chiu-Tamarkin complex and the $S^1$-equivariant Chiu-Tamarkin complex, and we define capacities using various versions of Chiu-Tamarkin complexes. Last, we make some computations for the convex toric domains and the unit disk bundle. Comments are welcome!
+- [PhD Thesis](Files/PhD_Thesis.pdf) is my PhD thesis. It basically consists of the first two papers above, but is not stritcly their sum.
 
 - [Generating functions and Sheaves](Files/GF-Sheaves.pdf) is a note for a short lecture within CIRM Spring School on Symplectic and Contact Topology in 2021. The short lecture, given by Sylvain Courte, introduces the basic notions of generating functions and sheaves.
 
