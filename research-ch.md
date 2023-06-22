@@ -20,7 +20,7 @@ layout: default
 
   我们将用生成函数同调证明大球的切触非挤压定理。我们的工具是一个新的$\mathbb{Z}/\ell$等变生成函数同调。
   
-- [微局部核的幂等性与$S^1$等变邱-Tamarkin不变量](https://arxiv.org/abs/2306.12316), 预印本. 
+- [Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant/微局部核的幂等性与$S^1$等变邱-Tamarkin不变量](https://arxiv.org/abs/2306.12316), 预印本. 
 
 - [Capacities from the Chiu-Tamarkin Complex/来自邱-Tamarkin复形的容度](https://arxiv.org/abs/2103.05143), 预印本. 
      
