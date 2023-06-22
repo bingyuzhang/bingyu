@@ -13,20 +13,20 @@ I am interested in symplectic and contact geometry/topology and related physics.
 
 ## Paper
 
-- [Capacities from the Chiu-Tamarkin Complex](https://arxiv.org/abs/2103.05143), preprint. 
-
-- [Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant](https://arxiv.org/abs/2306.12316), preprint.
-   
-- Contact Non-squeezing at Large Scale via Generating functions. Joint with Maia Fraser and Sheila Sandon. (in preparation)
-  
-  We will prove the contact non-squeezing theorem for big balls using generating function homology. Our tool is a new $\mathbb{Z}/k$-equivariant generating function homology.
-   
  - Chiu-Tamarkin complex as Hochschild (co)homology. Joint with Christopher Kuo. (in preparation)
-   
    We try to explain Chiu-Tamarkin complex conceptrally in terms of the Hochschild (co)homology of the Tamarkin category. We also develop the Chiu-Tamarkin complex of spectrum coefficient, which is a candidate for spectrum coefficient closed string invariant for open sets in cotangent bundles.
+
+ - Contact Non-squeezing at Large Scale via Generating functions. Joint with Maia Fraser and Sheila Sandon. (in preparation)
+   We will prove the contact non-squeezing theorem for big balls using generating function homology. Our tool is a new $\mathbb{Z}/k$-equivariant generating function homology.
+
+ - [Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant](https://arxiv.org/abs/2306.12316), preprint.
+  
+ - [Capacities from the Chiu-Tamarkin Complex](https://arxiv.org/abs/2103.05143), preprint. 
+   
+   
 ## Thesis and notes
 
-- [PhD Thesis](Files/PhD_Thesis.pdf) is my PhD thesis. It basically consists of the first two papers above, but is not stritcly their sum.
+- [PhD Thesis](Files/PhD_Thesis.pdf) is my PhD thesis. It basically consists of the last two papers above but is not strictly their sum.
 
 - [Generating functions and Sheaves](Files/GF-Sheaves.pdf) is a note for a short lecture within CIRM Spring School on Symplectic and Contact Topology in 2021. The short lecture, given by Sylvain Courte, introduces the basic notions of generating functions and sheaves.
 
