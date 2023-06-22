@@ -14,8 +14,7 @@ layout: default
 
 - [Capacities from the Chiu-Tamarkin Complex/来自邱-Tamarkin复形的容度](https://arxiv.org/abs/2103.05143), 预印本. 
  
-- 微局部核的幂等性与$S^1$等变邱-Tamarkin复形. （可来信索取初步版本）
-  我们将展示一些列基于微局部核的幂等性产生的结果与构造，包括：（1）$\mathbb{Z}/\ell$等变邱-Tamarkin复形定义的一个自然解释； （2）非等变邱-Tamarkin复形的一个分次交换乘积；（3）$S^1$等变邱-Tamarkin复形的一个构造。作为应用，我们：（1）用$S^1$等变邱-Tamarkin复形构造了一列容度，并在一定条件下证明了他们和我们之前用$\mathbb{Z}/\ell$等变邱-Tamarkin复形定义的容度相等；（2）证明了一个Viterbo同构。在附录中，我们在三角范畴的情形证明余切丛中所有的开集都有微局部核。
+- [微局部核的幂等性与$S^1$等变邱-Tamarkin不变量](https://arxiv.org/abs/2306.12316), 预印本. 
 
    
 - 大尺度切触非挤压定理的生成函数证明。与Maia Fraser和Sheila Sandon合作。 (准备中)
