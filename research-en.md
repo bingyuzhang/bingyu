@@ -15,9 +15,7 @@ I am interested in symplectic and contact geometry/topology and related physics.
 
 - [Capacities from the Chiu-Tamarkin Complex](https://arxiv.org/abs/2103.05143), preprint. 
 
-- Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin complex. (Available upon request)
-
-   We present a series of results and constructions about the Chiu-Tamarkin complex that are motivated by the idempotence of microlocal kernels, including: (1) a natural explanation for the definition of the $\mathbb{Z}/\ell$-equivariant Chiu-Tamarkin complex; (2) a graded commutative product on the non-equivariant Chiu-Tamarkin complex; and (3) a construction of the $S^1$-equivariant Chiu-Tamarkin complex. As applications, we: (1) construct a sequence of symplectic capacities using the $S^1$-equivariant Chiu-Tamarkin complex and prove that it coincides with the symplectic capacities $c_k$ we defined using the $\mathbb{Z}/\ell$-equivariant Chiu-Tamarkin complex under certain conditions; and (2) prove a Viterbo isomorphism. In the appendix, we provide a proof of admissibility for all open sets in a cotangent bundle under the setup of the triangulated category.
+- [Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant](https://arxiv.org/abs/2306.12316), preprint.
    
 - Contact Non-squeezing at Large Scale via Generating functions. Joint with Maia Fraser and Sheila Sandon. (in preparation)
   
