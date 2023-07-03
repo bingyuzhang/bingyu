@@ -13,7 +13,7 @@ I am interested in symplectic and contact geometry/topology and related physics.
 
 ## Paper
 
- - Chiu-Tamarkin complex as Hochschild (co)homology. Joint with Christopher Kuo. (in preparation)
+ - Chiu-Tamarkin complex as Hochschild (co)homology. Joint with Christopher Kuo and Vivek Shende. (in preparation)
 
    We try to explain Chiu-Tamarkin complex conceptrally in terms of the Hochschild (co)homology of the Tamarkin category. We also develop the Chiu-Tamarkin complex of spectrum coefficient, which is a candidate for spectrum coefficient closed string invariant for open sets in cotangent bundles.
 
