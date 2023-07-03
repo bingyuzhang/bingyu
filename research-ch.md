@@ -12,7 +12,7 @@ layout: default
 
 ## 论文
 
-- 邱-Tamarkin复形作为Hochschild上同调。与Christopher Kuo合作.（准备中）
+- 邱-Tamarkin复形作为Hochschild上同调。与Christopher Kuo和Vivek Shende合作.（准备中）
    
   我们试图用Tamarkin范畴的Hochschild(上)同调给邱-Tamarkin复形一个概念性解释。我们也会发展谱系数的邱-Tamarkin复形理论，可以期待它是余切丛中开集的谱系数闭弦不变量。
    
