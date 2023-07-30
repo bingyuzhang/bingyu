@@ -23,7 +23,7 @@ I am interested in symplectic and contact geometry/topology and related physics.
 
  - [Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant](https://arxiv.org/abs/2306.12316), preprint.
   
- - [Capacities from the Chiu-Tamarkin Complex](https://arxiv.org/abs/2103.05143), preprint. 
+ - [Capacities from the Chiu-Tamarkin Complex](https://arxiv.org/abs/2103.05143), to appear in Journal of Symplectic Geometry.
    
    
 ## Thesis and notes
