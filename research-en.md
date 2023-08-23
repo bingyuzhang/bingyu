@@ -38,6 +38,6 @@ I am interested in symplectic and contact geometry/topology and related physics.
 
 ## Seminars 
 
-[Mirror Symmetry](seminar/MirrorSymmetry.md)
+- [Mirror Symmetry](seminar/MirrorSymmetry.md) 2023 Fall.
 
 {% include head.html %}
