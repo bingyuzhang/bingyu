@@ -12,8 +12,7 @@ A learning seminar on the mathematical aspect of 2D Mirror Symmetry, particularl
 Anyone is welcome to attend or give a talk. Graduate students are required to give a talk in order to receive credit. A rough outline of the schedule of the talks is given below. This schedule may be subject to change.
 
 - Schedule
-  
-| First Header  | Second Header |
+
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
