@@ -30,9 +30,7 @@ Anyone is welcome to attend or give a talk. Graduate students are required to gi
 |Talk 15| 		TBD	|TBD| TBD|
 
 
----
-
-References:
+## References
 
 
 
