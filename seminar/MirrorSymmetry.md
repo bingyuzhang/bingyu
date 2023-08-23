@@ -15,7 +15,7 @@ Anyone is welcome to attend or give a talk. Graduate students are required to gi
   
 | #  | Date |Reference|Topics|
 |---|---|---|---|
-|Talk 1|		7 September|	 			|An overview of Mirror Symmetry|
+|Talk 1|		7 Sep.|	 			|An overview of Mirror Symmetry|
 |Talk 2|		TBD	|TBD| TBD|
 |Talk 3|		TBD	|TBD| TBD|
 |Talk 4|		TBD	|TBD| TBD|
