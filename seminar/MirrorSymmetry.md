@@ -13,10 +13,23 @@ Anyone is welcome to attend or give a talk. Graduate students are required to gi
 
 - Schedule
   
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| #  | Date |Reference|Topics|
+|---|---|---|---|
+|Talk 1|		30 September|				TBD				|An overview of Mirror Symmetry|
+|Talk 2|		TBD	|TBD| TBD|
+|Talk 3|		TBD	|TBD| TBD|
+|Talk 4|		TBD	|TBD| TBD|
+|Talk 5|		TBD	|TBD| TBD|
+|Talk 6|		TBD	|TBD| TBD|
+|Talk 7|		TBD	|TBD| TBD|
+|Talk 8|		TBD	|TBD| TBD|
+|Talk 9| 		TBD	|TBD| TBD|
+|Talk 10| 		TBD	|TBD| TBD|
+|Talk 11| 		TBD	|TBD| TBD|
+|Talk 12| 		TBD	|TBD| TBD|
+|Talk 13| 		TBD	|TBD| TBD|
+|Talk 14| 		TBD	|TBD| TBD|
+|Talk 15| 		TBD	|TBD| TBD|
 
 - References
 
