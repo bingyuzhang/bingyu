@@ -36,5 +36,8 @@ I am interested in symplectic and contact geometry/topology and related physics.
 
 - On the [CAS master thesis](Files/CAS_Thesis.pdf) (in Chinese), under the supervision of Wei-dong Ruan. I write a note on the proof of the Guillermou-Kashiwara-Schapira sheaf quantization of Hamiltonian.
 
+## Seminars 
+
+[Mirror Symmetry](seminar/MirrorSymmetry.md)
 
 {% include head.html %}
