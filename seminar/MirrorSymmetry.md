@@ -34,31 +34,47 @@ Anyone is welcome to attend or give a talk. Graduate students are required to gi
 - References
   
 Overviews on mirror symmetry:
+
 D. A. Cox, S. Katz, *Mirror symmetry and algebraic geometry*. 1999.
+
 Kentaro Hori, *Mirror symmetry*. 2003.
+
 Paul S. Aspinwall, et al., *Dirichlet branes and mirror symmetry*. 2009.
+
 Anton Kapustin, Dmitri Orlov, *Lectures on Mirror Symmetry, Derived Categories, and D-branes*. 2003.
 
 Derived category of coherent sheaves on varieties: 
+
 R. P. Thomas, *Derived categories for the working mathematician*. 2001.
+
 Alexei Bondal, Dmitri Orlov, *Derived categories of coherent sheaves*.  math.AG/0206295.
+
 Dmitri Orlov, *Derived categories of coherent sheaves and motives*. math.AG/0512620.
 
 Fukaya categories: 
+
 Paul Seidel, *Fukaya Categories and Picard–Lefschetz Theory*. 2008.
+
 Denis Auroux, *A beginner's introduction to Fukaya categories*. math.SG/1301.7056.
 
 Mathematical proofs of homological mirror symmetry:
+
 Paul Seidel, *Homological mirror symmetry for the quartic surface*. 2006.
+
 Denis Auroux, Ludmil Katzarkov and Dmitri Orlov, *Mirror symmetry for weighted projective planes and their noncommutative deformations*. 2008.
+
 Nick Sheridan, *Homological mirror symmetry for Calabi–Yau hypersurfaces in projective space*. 2015.
+
 Benjamin Gammage, Vivek Shende, Mirror symmetry for very affine hypersurfaces. 2017.
+
 Vivek Shende, Toric mirror symmetry revisited. 2021.
 
 - Online resources:
 
 [Denis Auroux, Topics in Differential Geometry](https://people.math.harvard.edu/~auroux/277F09/index.html)
+
 [Workshop: Homological Mirror Symmetry, 2015 at Hebrew University](http://www.math.huji.ac.il/~jake/seminar/year75/HMS/HMS_schedule.html)
+
 [James Pascaleff, Homological Mirror Symmetry](https://jpascale.web.illinois.edu/courses/2018/595/)
 
 
