@@ -77,3 +77,4 @@ Vivek Shende, Toric mirror symmetry revisited. 2021.
 
 
 <meta name="googlebot" content="noindex" />
+{% include head.html %}
