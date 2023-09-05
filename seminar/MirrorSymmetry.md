@@ -35,13 +35,9 @@ Anyone is welcome to attend or give a talk. Graduate students are required to gi
   
 - Overviews on mirror symmetry:
 
-D. A. Cox, S. Katz, *Mirror symmetry and algebraic geometry*. 1999.
-
 Kentaro Hori, *Mirror symmetry*. 2003.
 
 Paul S. Aspinwall, et al., *Dirichlet branes and mirror symmetry*. 2009.
-
-Anton Kapustin, Dmitri Orlov, *Lectures on Mirror Symmetry, Derived Categories, and D-branes*. 2003.
 
 - Derived category of coherent sheaves on varieties:
 
