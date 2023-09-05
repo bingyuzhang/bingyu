@@ -12,23 +12,23 @@ A learning seminar on the mathematical aspects of *2D Mirror Symmetry*, particul
 Anyone is welcome to attend or give a talk. Graduate students are required to give a talk in order to receive credit. A rough outline of the schedule of the talks is given below. This schedule may be subject to change.
 
 
-| #  | Date |Reference|Topics|
-|---|---|---|---|
-|Talk 1|		07/09|	 			|An overview of Mirror Symmetry|
-|Talk 2|		14/09	|TBD| TBD|
-|Talk 3|		28/09	|TBD| TBD|
-|Talk 4|		05/10	|TBD| TBD|
-|Talk 5|		19/10	|TBD| TBD|
-|Talk 6|		26/10	|TBD| TBD|
-|Talk 7|		02/11	|TBD| TBD|
-|Talk 8|		09/11	|TBD| TBD|
-|Talk 9| 		23/11	|TBD| TBD|
-|Talk 10| 		30/11	|TBD| TBD|
-|Talk 11| 		07/12	|TBD| TBD|
-|Talk 12| 		14/12	|TBD| TBD|
-|Talk 13| 		TBD	|TBD| TBD|
-|Talk 14| 		TBD	|TBD| TBD|
-|Talk 15| 		TBD	|TBD| TBD|
+| #  | Date |Topics|Speaker|Ref|
+|---|---|---|---|---|
+|Talk 1|		07/09		|An overview of Mirror Symmetry|Bingyu|[Aspinwall]|
+|Talk 2|		14/09	| Coherent sheaves|Adrian|[Vakil]|
+|Talk 3|		28/09	| Derived category of coherent sheaves|Joël|[Huybrechts]|
+|Talk 4|		05/10	| Beilinsen theorem|||
+|Talk 5|		19/10	| Floer homology||[Auroux]|
+|Talk 6|		26/10	| Fukaya Category||[Auroux]|
+|Talk 7|		02/11	| HMS of elliptic curves||[Polishchuk-Zaslow]|
+|Talk 8|		09/11	| HMS of $P^2$|||
+|Talk 9| 		23/11	| TBD|||
+|Talk 10| 		30/11	| TBD|||
+|Talk 11| 		07/12	| TBD|||
+|Talk 12| 		14/12	| TBD|||
+|Talk 13| 		TBD	| TBD||
+|Talk 14| 		TBD	| TBD||
+|Talk 15| 		TBD	| TBD||
 
 
 ## References
@@ -43,13 +43,11 @@ Paul S. Aspinwall, et al., *Dirichlet branes and mirror symmetry*. 2009.
 
 Anton Kapustin, Dmitri Orlov, *Lectures on Mirror Symmetry, Derived Categories, and D-branes*. 2003.
 
-- Derived category of coherent sheaves on varieties: 
+- Derived category of coherent sheaves on varieties:
 
-R. P. Thomas, *Derived categories for the working mathematician*. 2001.
+Daniel Huybrechts, *Fourier–Mukai transforms in Algebraic Geometry*. 2006. 
 
-Alexei Bondal, Dmitri Orlov, *Derived categories of coherent sheaves*.  math.AG/0206295.
-
-Dmitri Orlov, *Derived categories of coherent sheaves and motives*. math.AG/0512620.
+Ravi Vakil, *The Rising Sea: Foundations of Algebraic Geometry*. [Online](https://math216.wordpress.com/).
 
 - Fukaya categories: 
 
@@ -58,6 +56,8 @@ Paul Seidel, *Fukaya Categories and Picard–Lefschetz Theory*. 2008.
 Denis Auroux, *A beginner's introduction to Fukaya categories*. math.SG/1301.7056.
 
 - Mathematical proofs of homological mirror symmetry:
+  
+Alexander Polishchuk, Eric Zaslow, *Categorical Mirror Symmetry: The Elliptic Curve*. math.AG/9801119
 
 Paul Seidel, *Homological mirror symmetry for the quartic surface*. 2006.
 
