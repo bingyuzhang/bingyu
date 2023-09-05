@@ -13,7 +13,7 @@ Anyone is welcome to attend or give a talk. Graduate students are required to gi
 
 
 | #  | Date |Topics|Speaker|Ref|
-|---|---|---|---|---|
+|:--:|:--:|:--:|:--:|:--:|
 |Talk 1|		07/09		|An overview of Mirror Symmetry|Bingyu|[Aspinwall]|
 |Talk 2|		14/09	| Coherent sheaves|Adrian|[Vakil]|
 |Talk 3|		28/09	| Derived category of coherent sheaves|Joël|[Huybrechts]|
