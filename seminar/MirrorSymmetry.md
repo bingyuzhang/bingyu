@@ -12,7 +12,7 @@ A learning seminar on the mathematical aspects of *2D Mirror Symmetry*, particul
 Anyone is welcome to attend or give a talk. Graduate students are required to give a talk in order to receive credit. A rough outline of the schedule of the talks is given below. This schedule may be subject to change.
 
 
-| #  | Date |Topics|Speaker|Ref|
+| #  | Date |Topics|Speaker|Reference|
 |:--:|:--:|:--:|:--:|:--:|
 |Talk 1|		07/09		|An overview of Mirror Symmetry|Bingyu|[Aspinwall]|
 |Talk 2|		14/09	| Coherent sheaves|Adrian|[Vakil]|
