@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-| [Home](/index.md)  | [Research](/research-en.md)    | [Teaching](/teaching-en.md) | [Miscellaneous](/miscellaneous-en.md)          | 
+| [Home](/index)  | [Research](/research-en)    | [Teaching](/teaching-en) | [Miscellaneous](/miscellaneous-en)          | 
 
 # Mirror Symmetry seminar 
 
