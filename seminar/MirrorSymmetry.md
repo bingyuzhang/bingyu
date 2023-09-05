@@ -20,8 +20,8 @@ Anyone is welcome to attend or give a talk. Graduate students are required to gi
 |Talk 4|		05/10	| Beilinsen theorem|||
 |Talk 5|		19/10	| Floer homology||[Auroux]|
 |Talk 6|		26/10	| Fukaya Category||[Auroux]|
-|Talk 7|		02/11	| HMS of elliptic curves||[Polishchuk-Zaslow]|
-|Talk 8|		09/11	| HMS of $P^2$|||
+|Talk 7|		02/11	| HMS of elliptic curve||[Polishchuk-Zaslow]|
+|Talk 8|		09/11	| HMS of $\mathbb{P}^2$|||
 |Talk 9| 		23/11	| TBD|||
 |Talk 10| 		30/11	| TBD|||
 |Talk 11| 		07/12	| TBD|||
