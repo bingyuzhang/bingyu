@@ -17,11 +17,12 @@ Anyone is welcome to attend or give a talk. Graduate students are required to gi
 |Talk 1|		07/09		|An overview of Mirror Symmetry|Bingyu|[Aspinwall]|
 |Talk 2|		14/09	| Coherent sheaves|Adrian|[Vakil]|
 |Talk 3|		28/09	| Derived category of coherent sheaves|Joël|[Huybrechts]|
-|Talk 4|		05/10	| Beilinsen theorem for $D^b\mathrm{Coh}(\mathbb{P}^n)$|||
-|Talk 5|		19/10	| Floer homology||[Auroux]|
-|Talk 6|		26/10	| Fukaya Category||[Auroux]|
-|Talk 7|		02/11	| HMS of elliptic curve||[Polishchuk-Zaslow]|
-|Talk 8|		09/11	| HMS of $\mathbb{P}^2$|||
+|Talk 3|		28/09	| Derived category of coherent sheaves|Joël|[Huybrechts]|
+|Talk 4|		05/10	| Beilinsen theorem for $D^b\mathrm{Coh}(\mathbb{P}^n)$|Yuki||
+|Talk 5|		19/10	| Floer homology|Alyosha|[Auroux]|
+|Talk 6|		26/10	| Fukaya Category|Siva|[Auroux]|
+|Talk 7|		02/11	| HMS of elliptic curve|Shomrik|[Polishchuk-Zaslow]|
+|Talk 8|		09/11	| HMS of $\mathbb{P}^2$|Matthias||
 |Talk 9| 		23/11	| TBD|||
 |Talk 10| 		30/11	| TBD|||
 |Talk 11| 		07/12	| TBD|||
