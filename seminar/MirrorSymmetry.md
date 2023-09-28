@@ -7,16 +7,16 @@ layout: default
 
 # Mirror Symmetry seminar 
 
-A learning seminar on the mathematical aspects of *2D Mirror Symmetry*, particularly the *Homological Mirror Symmetry (HMS) conjecture*. We will meet on Tuesdays from 14:00-17:00 in the QM Seminar Room.
+A learning seminar on the mathematical aspects of *2D Mirror Symmetry*, particularly the *Homological Mirror Symmetry (HMS) conjecture*. We will meet on Tuesdays from 14:00-17:00 in the QM Seminar Room. It is also registered as the course *Advanced topics in geometry and topology* as a PhD course in SDU. 
 
-Anyone is welcome to attend or give a talk. Graduate students are required to give a talk in order to receive credit. A rough outline of the schedule of the talks is given below. This schedule may be subject to change.
+Anyone is welcome to attend and/or give talks. Graduate students are required to give a talk to receive credit. If you want to join, please contact me directly. A rough outline of the schedule of the talks is given below. This schedule may be subject to change.
 
 
 | #  | Date |Topics|Speaker|Reference|
 |:--:|:--:|:--:|:--:|:--:|
 |Talk 1|		07/09		|An overview of Mirror Symmetry|Bingyu|[Aspinwall]|
 |Talk 2|		14/09	|An overview of Mirror Symmetry II|Bingyu|[Aspinwall]|
-|Talk 2|		28/09	| Coherent sheaves|Adrian|[Vakil]|
+|Talk 2|		29/09	| Coherent sheaves|Adrian|[Vakil]|
 |Talk 3|		08/09	| Derived category of coherent sheaves|Joël|[Huybrechts]|
 |Talk 4|		19/10	| Beilinsen theorem for $D^b\mathrm{Coh}(\mathbb{P}^n)$|Yuki|[Huybrechts]|
 |Talk 5|		26/10	| Floer homology|Alyosha|[Auroux]|
