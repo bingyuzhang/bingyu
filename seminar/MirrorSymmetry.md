@@ -7,7 +7,7 @@ layout: default
 
 # Mirror Symmetry seminar 
 
-A learning seminar on the mathematical aspects of *2D Mirror Symmetry*, particularly the *Homological Mirror Symmetry (HMS) conjecture*. We will meet on Tuesdays from 14:00-16:00 in the QM Seminar Room.
+A learning seminar on the mathematical aspects of *2D Mirror Symmetry*, particularly the *Homological Mirror Symmetry (HMS) conjecture*. We will meet on Tuesdays from 14:00-17:00 in the QM Seminar Room.
 
 Anyone is welcome to attend or give a talk. Graduate students are required to give a talk in order to receive credit. A rough outline of the schedule of the talks is given below. This schedule may be subject to change.
 
