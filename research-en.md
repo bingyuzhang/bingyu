@@ -13,13 +13,9 @@ I am interested in symplectic and contact geometry/topology and related physics.
 
 ## Paper
 
- - Chiu-Tamarkin complex as Hochschild (co)homology. Joint with Christopher Kuo and Vivek Shende. (in preparation)
+ - On the Hochschild homology of Tamarkin categories. Joint with Christopher Kuo and Vivek Shende. (in preparation)
 
-   We try to explain Chiu-Tamarkin complex conceptrally in terms of the Hochschild (co)homology of the Tamarkin category. We also develop the Chiu-Tamarkin complex of spectrum coefficient, which is a candidate for spectrum coefficient closed string invariant for open sets in cotangent bundles.
-
- - Contact Non-squeezing at Large Scale via Generating functions. Joint with Maia Fraser and Sheila Sandon. (in preparation)
-
-   We will prove the contact non-squeezing theorem for big balls using generating function homology. Our tool is a new $\mathbb{Z}/k$-equivariant generating function homology.
+ - [Contact Non-squeezing at Large Scale via Generating functions](https://arxiv.org/abs/2310.11993), preprint. Joint with Maia Fraser and Sheila Sandon.
 
  - [Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant](https://arxiv.org/abs/2306.12316), preprint.
   
