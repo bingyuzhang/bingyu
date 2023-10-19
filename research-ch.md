@@ -12,13 +12,9 @@ layout: default
 
 ## 论文
 
-- 邱-Tamarkin复形作为Hochschild上同调。与Christopher Kuo和Vivek Shende合作.（准备中）
+- 关于Tamarkin范畴的Hochschild上同调。与Christopher Kuo和Vivek Shende合作.（准备中）
    
-  我们试图用Tamarkin范畴的Hochschild(上)同调给邱-Tamarkin复形一个概念性解释。我们也会发展谱系数的邱-Tamarkin复形理论，可以期待它是余切丛中开集的谱系数闭弦不变量。
-   
-- 大尺度切触非挤压定理的生成函数证明。与Maia Fraser和Sheila Sandon合作. (准备中)
-
-  我们将用生成函数同调证明大球的切触非挤压定理。我们的工具是一个新的$\mathbb{Z}/\ell$等变生成函数同调。
+- [Contact non-squeezing at large scale via generating functions/大尺度切触非挤压定理的生成函数证明](https://arxiv.org/abs/2310.11993), 预印本. 与Maia Fraser和Sheila Sandon合作.
   
 - [Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant/微局部核的幂等性与$S^1$等变邱-Tamarkin不变量](https://arxiv.org/abs/2306.12316), 预印本. 
 
