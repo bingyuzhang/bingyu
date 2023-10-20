@@ -23,11 +23,11 @@ layout: default
   
 ## 毕业论文及笔记
 
-- [PhD Thesis](Files/PhD_Thesis.pdf) 是我的博士论文的。 本文由上述最后两篇论文组成, 但并非简单组合，互有补充。
+- [PhD Thesis](Files/PhD_Thesis.pdf) 是我的博士论文的. 本文由上述最后两篇论文组成, 但并非简单组合, 互有补充.
 
-- [Generating functions and Sheaves](Files/GF-Sheaves.pdf)是CIRM在2021举办的辛拓扑与切触拓扑春季学校的一个短课的笔记. 主讲Sylvain Courte, 主要介绍了生成函数和层论的基本概念.
+- [Generating functions and Sheaves](Files/GF-Sheaves.pdf)是CIRM在2021举办的辛拓扑与切触拓扑春季学校的一个短课的笔记. 主讲Sylvain Courte. 主要介绍了生成函数和层论的基本概念.
 
-- [M2毕业论文](Files/M2_thesis.pdf)(英文版)是我在Institut Fourier的M2毕业论文, 导师是Stéphane Guillermou. 本文展示了一个辛线性空间中立方体对应范畴的投影函子的构造.
+- [M2毕业论文](Files/M2_thesis.pdf)(英文版)是我在Institut Fourier的M2毕业论文, 导师是Stéphane Guillermou. 本文展示了一个辛线性空间中立方体对应范畴的一个投影函子的构造.
 
 - 在阮卫东研究员指导下, 我在[中科院硕士论文](Files/CAS_Thesis.pdf)中完成了一个哈密顿同痕的Guillermou-Kashiwara-Schapira层量子化的笔记.
 
