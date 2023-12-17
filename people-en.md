@@ -15,7 +15,7 @@ layout: default
 <center><img src="picture/CQM-Christmas-2023.JPG" width="40%" height="40%"/></center>
 <center><img src="picture/CQM-Christmas-2023-2.jpg" width="40%" height="40%"/></center>
 
-<center>Group photo for the Christmas party of IMADA SDU on 08/12/2023.
+<center>Group photos for the Christmas party of IMADA SDU on 08/12/2023.
 <br />
 Most of the members in the Center of Quantum Mathematics. 
 </center>
