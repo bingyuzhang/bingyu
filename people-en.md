@@ -12,6 +12,15 @@ layout: default
 <center>Myself, around 1 years old.</center>
 
 <br /><br />
+<center><img src="picture/CQM-Christmas-2023.JPG" width="40%" height="40%"/></center>
+<center><img src="picture/CQM-Christmas-2023-2.JPG" width="40%" height="40%"/></center>
+
+<center>Group photo for the Christmas party of IMADA SDU on 08/12/2023.
+<br />
+Most of the members in the Center of Quantum Mathematics. 
+</center>
+
+<br /><br />
 <center><img src="picture/phddefence.jpg" width="40%" height="40%"/></center>
 
 <center>Group photo for my PhD defence on 02/09/2022 at IF.
