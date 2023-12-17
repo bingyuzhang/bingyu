@@ -13,6 +13,17 @@ layout: default
 <center>本人, 一岁左右.</center>
 
 <br /><br />
+
+<center><img src="picture/CQM-Christmas-2023.JPG" width="40%" height="40%"/></center>
+<center><img src="picture/CQM-Christmas-2023-2.jpg" width="40%" height="40%"/></center>
+
+<center>圣诞聚会合照，08/12/2023于南丹麦大学.
+<br />
+量子数学中心成员.
+</center>
+
+<br /><br />
+
 <center><img src="picture/phddefence.jpg" width="40%" height="40%"/></center>
 
 <center>博士答辩合照, 02/09/2022于傅里叶所.
