@@ -17,7 +17,7 @@ layout: default
 <center><img src="picture/CQM-Christmas-2023.JPG" width="40%" height="40%"/></center>
 <center><img src="picture/CQM-Christmas-2023-2.jpg" width="40%" height="40%"/></center>
 
-<center>圣诞聚会合照，08/12/2023于南丹麦大学.
+<center>南丹麦大学数学与计算机科学系圣诞聚会合影，08/12/2023于南丹麦大学.
 <br />
 量子数学中心成员.
 </center>
