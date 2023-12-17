@@ -13,7 +13,7 @@ layout: default
 
 <br /><br />
 <center><img src="picture/CQM-Christmas-2023.JPG" width="40%" height="40%"/></center>
-<center><img src="picture/CQM-Christmas-2023-2.JPG" width="40%" height="40%"/></center>
+<center><img src="picture/CQM-Christmas-2023-2.jpg" width="40%" height="40%"/></center>
 
 <center>Group photo for the Christmas party of IMADA SDU on 08/12/2023.
 <br />
