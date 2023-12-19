@@ -13,8 +13,8 @@ I am interested in symplectic and contact geometry/topology and related physics.
 
 ## Paper
 
- - On the Hochschild homology of Tamarkin categories. Joint with Christopher Kuo and Vivek Shende. (in preparation)
-
+ - [On the Hochschild homology of Tamarkin categories](https://arxiv.org/abs/2312.11447), preprint. Joint with Christopher Kuo and Vivek Shende.
+  
  - [Contact non-squeezing at large scale via generating functions](https://arxiv.org/abs/2310.11993), preprint. Joint with Maia Fraser and Sheila Sandon.
 
  - [Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant](https://arxiv.org/abs/2306.12316), preprint.
