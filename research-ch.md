@@ -12,7 +12,7 @@ layout: default
 
 ## 论文
 
-- 关于Tamarkin范畴的Hochschild上同调。与Christopher Kuo和Vivek Shende合作.（准备中）
+- [On the Hochschild homology of Tamarkin categories/关于Tamarkin范畴的Hochschild上同调](https://arxiv.org/abs/2312.11447), 预印本. 与Christopher Kuo和Vivek Shende合作.
    
 - [Contact non-squeezing at large scale via generating functions/大尺度切触非挤压定理的生成函数证明](https://arxiv.org/abs/2310.11993), 预印本. 与Maia Fraser和Sheila Sandon合作.
   
