@@ -6,9 +6,6 @@ layout: default
 | [主页](index-ch.md)  | [研究](research-ch.md)    | [教学](teaching-ch.md)         |[杂项](miscellaneous-ch.md) | [English](research-en.md) |
 
 
-# 研究
-
-我对辛与切触几何(拓扑)及相关物理有兴趣. 目前, 我主要致力于用微局部层论研究余切丛的辛几何. 特别地, 对每个拉格朗日子流形或余切丛中的区域, 我们有一个相应的范畴. 这些范畴及其之间的函子蕴含了诸多给定拉格朗日子流形或区域的几何信息.
 
 ## 论文
 
