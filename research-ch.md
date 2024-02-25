@@ -19,11 +19,8 @@ layout: default
 
 
 <div style='display: none'>
-
-## 解释性写作
+  ## 解释性写作
 - [Non-linear microlocal cut-off functors](Files/Non_linear_microlocal_cut_off_functors.pdf). 一份关于微局部截断引理的未完成笔记。我们扩展了微局部截断函子的定义并证明了一个截断引理，其中引入了来自辛几何的技术。
-
-  
 </div>
   
 ## 毕业论文及笔记
