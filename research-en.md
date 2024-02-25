@@ -9,7 +9,7 @@ layout: default
 
 ## Publication and preprints
 
- - [On the Hochschild homology of Tamarkin categories](https://arxiv.org/abs/2312.11447), preprint. Joint with Christopher Kuo and Vivek Shende.
+ - [On the Hochschild cohomology of Tamarkin categories](https://arxiv.org/abs/2312.11447), preprint. Joint with Christopher Kuo and Vivek Shende.
   
  - [Contact non-squeezing at large scale via generating functions](https://arxiv.org/abs/2310.11993), preprint. Joint with Maia Fraser and Sheila Sandon.
 
