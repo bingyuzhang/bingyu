@@ -7,7 +7,7 @@ layout: default
 | [Home](index.md)  | [Research](research-en.md)    | [Teaching](teaching-en.md) | [Miscellaneous](miscellaneous-en.md)        | [中文](research-ch.md) |
 
 
-## Paper
+## Publication and preprints
 
  - [On the Hochschild homology of Tamarkin categories](https://arxiv.org/abs/2312.11447), preprint. Joint with Christopher Kuo and Vivek Shende.
   
@@ -17,7 +17,10 @@ layout: default
   
  - [Capacities from the Chiu-Tamarkin Complex](https://arxiv.org/abs/2103.05143), to appear in Journal of Symplectic Geometry.
    
-   
+## Expository writing 
+
+ - [Non-linear microlocal cut-off functors](Files/Non_linear_microlocal_cut_off_functors.pdf). An unfinished short note of the microlocal cut-off lemma. We extend the definition of microlocal cut-off functors and prove a cut-off lemma adapting new inputs from symplectic geometry. 
+
 ## Thesis and notes
 
 - [PhD Thesis](Files/PhD_Thesis.pdf) is my PhD thesis. It basically consists of the last two papers above but is not strictly their sum.
