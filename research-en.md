@@ -17,9 +17,9 @@ layout: default
   
  - [Capacities from the Chiu-Tamarkin Complex](https://arxiv.org/abs/2103.05143), to appear in Journal of Symplectic Geometry.
    
-## Expository writing 
+<!--## Expository writing 
 
- - [Non-linear microlocal cut-off functors](Files/Non_linear_microlocal_cut_off_functors.pdf). An unfinished short note of the microlocal cut-off lemma. We extend the definition of microlocal cut-off functors and prove a cut-off lemma adapting new inputs from symplectic geometry. 
+ - [Non-linear microlocal cut-off functors](Files/Non_linear_microlocal_cut_off_functors.pdf). An unfinished short note of the microlocal cut-off lemma. We extend the definition of microlocal cut-off functors and prove a cut-off lemma adapting new inputs from symplectic geometry. -->
 
 ## Thesis and notes
 
