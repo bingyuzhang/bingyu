@@ -7,7 +7,7 @@ layout: default
 
 
 
-## 论文
+## 发表论文与预印本
 
 - [On the Hochschild homology of Tamarkin categories/关于Tamarkin范畴的Hochschild上同调](https://arxiv.org/abs/2312.11447), 预印本. 与Christopher Kuo和Vivek Shende合作.
    
@@ -16,7 +16,10 @@ layout: default
 - [Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant/微局部核的幂等性与$S^1$等变邱-Tamarkin不变量](https://arxiv.org/abs/2306.12316), 预印本. 
 
 - [Capacities from the Chiu-Tamarkin Complex/来自邱-Tamarkin复形的容度](https://arxiv.org/abs/2103.05143), 即将刊于Journal of Symplectic Geometry. 
-     
+
+## 解释性写作
+
+- [Non-linear microlocal cut-off functors](Files/Non_linear_microlocal_cut_off_functors.pdf). 一份关于微局部截断引理的未完成笔记。我们扩展了微局部截断函子的定义并证明了一个截断引理，其中引入了来自辛几何的技术。
   
 ## 毕业论文及笔记
 
