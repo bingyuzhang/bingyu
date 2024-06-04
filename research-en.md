@@ -11,7 +11,7 @@ layout: default
 
  - [Non-linear microlocal cut-off functors](Files/Non_linear_microlocal_cut_off_functors.pdf), preprint.
 
-   A splitting result in an early version of this article is removed in this version. It follows directly from Proposition 3.1.10 of (_Sheaves and symplectic geometry of cotangent bundles_) of Guillermou using cut-off lemma of this article.
+   A splitting result in an early version of this article is removed. It follows directly from Proposition 3.1.10 of (_Sheaves and symplectic geometry of cotangent bundles_) of Guillermou using cut-off lemma of this article.
 
  - [On the Hochschild cohomology of Tamarkin categories](https://arxiv.org/abs/2312.11447), preprint. Joint with Christopher Kuo and Vivek Shende.
   
