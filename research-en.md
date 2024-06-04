@@ -9,6 +9,10 @@ layout: default
 
 ## Publication and preprints
 
+ - [Non-linear microlocal cut-off functors](Files/Non_linear_microlocal_cut_off_functors.pdf), preprint.
+
+   A splitting result in an early version of this article is removed in this version. It follows directly from Proposition 3.1.10 of (_Sheaves and symplectic geometry of cotangent bundles_) of Guillermou using cut-off lemma of this article.
+
  - [On the Hochschild cohomology of Tamarkin categories](https://arxiv.org/abs/2312.11447), preprint. Joint with Christopher Kuo and Vivek Shende.
   
  - [Contact non-squeezing at large scale via generating functions](https://arxiv.org/abs/2310.11993), preprint. Joint with Maia Fraser and Sheila Sandon.
@@ -17,9 +21,6 @@ layout: default
   
  - [Capacities from the Chiu-Tamarkin Complex](https://arxiv.org/abs/2103.05143), to appear in Journal of Symplectic Geometry.
    
-## Expository writing 
-
- - [Non-linear microlocal cut-off functors](Files/Non_linear_microlocal_cut_off_functors.pdf). A short note of the microlocal cut-off lemma. We extend the definition of microlocal cut-off functors and prove a cut-off lemma adapting new inputs from symplectic geometry. 
 
 ## Thesis and notes
 
