@@ -9,6 +9,10 @@ layout: default
 
 ## 发表论文与预印本
 
+- [Non-linear microlocal cut-off functors/非线性微局部截断函子](Files/Non_linear_microlocal_cut_off_functors.pdf), 预印本.
+
+  移除了本文早期版本的一个分裂结果。这个结果本质上是[(_Sheaves and symplectic geometry of cotangent bundles_)](https://arxiv.org/abs/1905.07341)中命题3.1.10 用当前版本的截断引理的一个复写。
+
 - [On the Hochschild cohomology of Tamarkin categories/关于Tamarkin范畴的Hochschild上同调](https://arxiv.org/abs/2312.11447), 预印本. 与Christopher Kuo和Vivek Shende合作.
    
 - [Contact non-squeezing at large scale via generating functions/大尺度切触非挤压定理的生成函数证明](https://arxiv.org/abs/2310.11993), 预印本. 与Maia Fraser和Sheila Sandon合作.
