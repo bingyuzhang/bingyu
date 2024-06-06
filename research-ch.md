@@ -9,7 +9,7 @@ layout: default
 
 ## 发表论文与预印本
 
-- [Non-linear microlocal cut-off functors/非线性微局部截断函子](Files/Non_linear_microlocal_cut_off_functors.pdf), 预印本.
+- [Non-linear microlocal cut-off functors/非线性微局部截断函子](https://arxiv.org/abs/2406.02725), 预印本.
 
   移除了本文早期版本的一个分裂结果。这个结果本质上是[(_Sheaves and symplectic geometry of cotangent bundles_)](https://arxiv.org/abs/1905.07341)中命题3.1.10 用当前版本的截断引理的一个复写。
 
