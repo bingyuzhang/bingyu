@@ -13,7 +13,7 @@ layout: default
 
    A splitting result in an early version of this article is removed. The result is essentially a reprography of Proposition 3.1.10 of [(_Sheaves and symplectic geometry of cotangent bundles_)](https://arxiv.org/abs/1905.07341) with the present form of cut-off functors.
 
-   On the Hochschild cohomology of Tamarkin categories. Joint with Christopher Kuo and Vivek Shende. Preprint. [arXiv](https://arxiv.org/abs/2312.11447). 
+ - On the Hochschild cohomology of Tamarkin categories. Joint with Christopher Kuo and Vivek Shende. Preprint. [arXiv](https://arxiv.org/abs/2312.11447). 
   
  - Contact non-squeezing at large scale via generating functions. Joint with Maia Fraser and Sheila Sandon. Preprint. [arXiv](https://arxiv.org/abs/2310.11993). 
 
