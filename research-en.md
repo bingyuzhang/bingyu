@@ -32,8 +32,5 @@ layout: default
 
 - On the [CAS master thesis](Files/CAS_Thesis.pdf) (in Chinese), under the supervision of Wei-dong Ruan. I write a note on the proof of the Guillermou-Kashiwara-Schapira sheaf quantization of Hamiltonian.
 
-## Seminars 
-
-- [Mirror Symmetry](seminar/MirrorSymmetry.md) 2023 Fall.
 
 {% include head.html %}
