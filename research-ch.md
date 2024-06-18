@@ -17,7 +17,7 @@ layout: default
    
 - Contact non-squeezing at large scale via generating functions/大尺度切触非挤压定理的生成函数证明. 与Maia Fraser和Sheila Sandon合作. 预印本. [arXiv](https://arxiv.org/abs/2310.11993).
   
-- Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant/微局部核的幂等性与$S^1$等变邱-Tamarkin不变量.预印本. [arXiv](https://arxiv.org/abs/2306.12316).
+- Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant/微局部核的幂等性与$S^1$等变邱-Tamarkin不变量. 预印本. [arXiv](https://arxiv.org/abs/2306.12316).
 
 - Capacities from the Chiu-Tamarkin Complex/来自邱-Tamarkin复形的容度. 即将刊于Journal of Symplectic Geometry. [arXiv](https://arxiv.org/abs/2103.05143).
 
