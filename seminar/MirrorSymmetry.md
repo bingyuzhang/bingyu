@@ -23,14 +23,6 @@ Anyone is welcome to attend and/or give talks. Graduate students are required to
 |Talk 6|		02/11	| Fukaya Category|Siva|[Auroux]|
 |Talk 7|		09/11	| HMS of elliptic curve|Shomrik|[Polishchuk-Zaslow]|
 |Talk 8|		23/11	| HMS of $\mathbb{P}^2$|Matthias||
-|Talk 9| 		31/11	| TBD|||
-|Talk 10| 		07/11	| TBD|||
-|Talk 11| 		14/12	| TBD|||
-|Talk 12| 		TBD	| TBD|||
-|Talk 13| 		TBD	| TBD||
-|Talk 14| 		TBD	| TBD||
-|Talk 15| 		TBD	| TBD||
-
 
 ## References
   
