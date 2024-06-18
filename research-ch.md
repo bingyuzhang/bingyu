@@ -9,17 +9,17 @@ layout: default
 
 ## 发表论文与预印本
 
-- [Non-linear microlocal cut-off functors/非线性微局部截断函子](https://arxiv.org/abs/2406.02725), 预印本.
+- Non-linear microlocal cut-off functors/非线性微局部截断函子. 预印本. [arXiv](https://arxiv.org/abs/2406.02725)
 
   移除了本文早期版本的一个分裂结果。这个结果本质上是[(_Sheaves and symplectic geometry of cotangent bundles_)](https://arxiv.org/abs/1905.07341)中命题3.1.10 用当前版本的截断引理的一个复写。
 
-- [On the Hochschild cohomology of Tamarkin categories/关于Tamarkin范畴的Hochschild上同调](https://arxiv.org/abs/2312.11447), 预印本. 与Christopher Kuo和Vivek Shende合作.
+- On the Hochschild cohomology of Tamarkin categories/关于Tamarkin范畴的Hochschild上同调. 与Christopher Kuo和Vivek Shende合作. 预印本. [arXiv](https://arxiv.org/abs/2312.11447). 
    
-- [Contact non-squeezing at large scale via generating functions/大尺度切触非挤压定理的生成函数证明](https://arxiv.org/abs/2310.11993), 预印本. 与Maia Fraser和Sheila Sandon合作.
+- Contact non-squeezing at large scale via generating functions/大尺度切触非挤压定理的生成函数证明. 与Maia Fraser和Sheila Sandon合作. 预印本. [arXiv](https://arxiv.org/abs/2310.11993).
   
-- [Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant/微局部核的幂等性与$S^1$等变邱-Tamarkin不变量](https://arxiv.org/abs/2306.12316), 预印本. 
+- Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant/微局部核的幂等性与$S^1$等变邱-Tamarkin不变量.预印本. [arXiv](https://arxiv.org/abs/2306.12316).
 
-- [Capacities from the Chiu-Tamarkin Complex/来自邱-Tamarkin复形的容度](https://arxiv.org/abs/2103.05143), 即将刊于Journal of Symplectic Geometry. 
+- Capacities from the Chiu-Tamarkin Complex/来自邱-Tamarkin复形的容度. 即将刊于Journal of Symplectic Geometry. [arXiv](https://arxiv.org/abs/2103.05143).
 
 
   
