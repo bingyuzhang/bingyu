@@ -9,6 +9,8 @@ layout: default
 
 ## Publication and preprints
 
+   [arXiv Page](https://arxiv.org/a/zhang_b_7.html)
+
  - Non-linear microlocal cut-off functors. Preprint. [arXiv](https://arxiv.org/abs/2406.02725).
 
    A splitting result in an early version of this article is removed. The result is essentially a reprography of Proposition 3.1.10 of [(_Sheaves and symplectic geometry of cotangent bundles_)](https://arxiv.org/abs/1905.07341) with the present form of cut-off functors.
@@ -19,10 +21,7 @@ layout: default
 
  - Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant. Preprint. [arXiv](https://arxiv.org/abs/2306.12316).
   
- - Capacities from the Chiu-Tamarkin Complex. To appear in Journal of Symplectic Geometry. [arXiv](https://arxiv.org/abs/2103.05143).
-
-   [arXiv Page](https://arxiv.org/a/zhang_b_7.html)
-   
+ - Capacities from the Chiu-Tamarkin Complex. To appear in Journal of Symplectic Geometry. [arXiv](https://arxiv.org/abs/2103.05143). 
 
 ## Thesis and notes
 
