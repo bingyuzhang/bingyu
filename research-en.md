@@ -7,7 +7,7 @@ layout: default
 | [Home](index.md)  | [Research](research-en.md)    | [Teaching](teaching-en.md) | [Miscellaneous](miscellaneous-en.md)        | [中文](research-ch.md) |
 
 
-## Publication and preprints
+## Publication and preprints ([arXiv Page](https://arxiv.org/a/zhang_b_7.html))
 
  - Non-linear microlocal cut-off functors. Preprint. [arXiv](https://arxiv.org/abs/2406.02725).
 
