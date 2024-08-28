@@ -14,7 +14,7 @@ layout: default
 <div style="width:100%;">
             <img src="me.jpeg" align="right"  width="26%" height="26%"/>
             <p>I am Bingyu Zhang (张秉宇).  My CV is here: <a href="Files/CV.pdf">CV</a>.</p>
-            <p>Currently, I am a Post-Doc at Centre for Quantum Mathematics in the University of Southern Denmark (SDU). I am working with Vivek Shende.</p>
+            <p>Currently, I am a Post-Doc at Centre for Quantum Mathematics in the University of Southern Denmark (SDU). I am working with Vivek Shende. I am on job market in 2024-2025!</p>
             <p>I received my PhD degree on Sep. 2022 from Institut Fourier at Université Grenoble Alpes under the supervision of Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (LMJL, Université de Nantes), and Claude Viterbo (LMO, Université Paris-Saclay).</p>
             <br /><br />
             <p>Address: Ø12-509b-1, Syddansk Universitet. </p>
