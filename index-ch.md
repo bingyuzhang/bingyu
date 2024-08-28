@@ -17,7 +17,7 @@ layout: default
             <p>现在我是南丹麦大学量子数学中心的博士后，与Vivek Shende一起工作.</p>
             <p>2022年9月, 我在Institute Fourier, Université Grenoble Alpes被授予博士学位。我的导师是Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (LMJL, Université de Nantes), 和Claude Viterbo (LMO, Université Paris-Saclay).</p>
             <br /><br />
-            <p>地址: Ø11-403a-2, Syddansk Universitet. </p>
+            <p>地址: Ø12-509b-1, Syddansk Universitet. </p>
             <p>Campusvej 55, 5230 Odense, Denmark.</p>
             <p>E-mail: bingyuzhang@imada.sdu.dk</p>
 
