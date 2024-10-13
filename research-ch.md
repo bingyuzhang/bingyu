@@ -19,7 +19,7 @@ layout: default
   
 - Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant/微局部核的幂等性与$S^1$等变邱-Tamarkin不变量. 预印本. [arXiv](https://arxiv.org/abs/2306.12316).
 
-- Capacities from the Chiu-Tamarkin Complex/来自邱-Tamarkin复形的容度. 即将刊于Journal of Symplectic Geometry. [arXiv](https://arxiv.org/abs/2103.05143).
+- Capacities from the Chiu-Tamarkin Complex/来自邱-Tamarkin复形的容度. _Journal of Symplectic Geometry_, 22(3) (2024), pp. 441-524. [arXiv](https://arxiv.org/abs/2103.05143), [期刊](https://link.intlpress.com/JDetail/1841106763640782850).
 
 
   
