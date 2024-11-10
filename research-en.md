@@ -9,7 +9,7 @@ layout: default
 
 ## Publication and preprints ([arXiv Page](https://arxiv.org/a/zhang_b_7.html))
 
- - Almost mathematics, Persistence module and Tamarkin category. Joint with Tatsuki kuwagaki, in preparation.
+ - Almost mathematics, Persistence module and Tamarkin category. Joint with Tatsuki Kuwagaki, in preparation.
 
  - $S^1$-action on the Hochschild homology of the Tamarkin Category. Joint with Wenyuan Li, in preparation.
 
