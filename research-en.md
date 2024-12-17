@@ -13,7 +13,7 @@ layout: default
 
  - $S^1$-action on the Hochschild homology of the Tamarkin Category. Joint with Wenyuan Li, in preparation.
 
- - Non-linear microlocal cut-off functors. Preprint. [arXiv](https://arxiv.org/abs/2406.02725).
+ - Non-linear microlocal cut-off functors. To appear in _Rend. Sem. Mat. Univ. Padova._ [arXiv](https://arxiv.org/abs/2406.02725).    
 
    A splitting result in an early version of this article is removed. The result is essentially a reprography of Proposition 3.1.10 of [(_Sheaves and symplectic geometry of cotangent bundles_)](https://arxiv.org/abs/1905.07341) with the present form of cut-off functors.
 
