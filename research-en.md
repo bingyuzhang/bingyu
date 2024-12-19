@@ -23,7 +23,7 @@ layout: default
 
  - Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant. Preprint. [arXiv](https://arxiv.org/abs/2306.12316).
   
- - Capacities from the Chiu-Tamarkin Complex. _Journal of Symplectic Geometry_, 22(3) (2024), pp. 441-524. [arXiv](https://arxiv.org/abs/2103.05143), [Journal](https://dx.doi.org/10.4310/JSG.241001211759). 
+ - Capacities from the Chiu-Tamarkin Complex. _Journal of Symplectic Geometry_, 22(3) (2024), pp. 441-524. [arXiv](https://arxiv.org/abs/2103.05143), [Journal](https://dx.doi.org/10.4310/JSG.241001211759)[PDF](Files/Capacity-vJSG.pdf). 
 
 ## Thesis and notes
 
