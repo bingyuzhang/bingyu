@@ -7,7 +7,8 @@ layout: default
 
 # Teaching
 
-- 2024 Fall: Advanced Topic in Quantum Mathematics: Toric Geometry and F-theory. University of Southern Denmark. Instructor, joint with Muyang Liu.
+- 2024 Fall: [Advanced Topic in Quantum Mathematics: Toric Geometry and F-theory](seminar
+/Toric.md). University of Southern Denmark. Instructor, joint with Muyang Liu.
 
 - 2023 Fall: [Advanced Topics in Geometry and Topology: Introduction to Mirror Symmetry](seminar/MirrorSymmetry.md). University of Southern Denmark. Instructor.
 
