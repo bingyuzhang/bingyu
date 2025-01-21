@@ -7,7 +7,7 @@ layout: default
 
 # Toric variety and F-theory
 
-This is a PhD topics course *Advance topics in Quantum Mathematics* at CQM on Spring 2025. We will discuss basic toric geometry and certain applycations in Physics, especially in F-theory.
+This is a PhD topics course *Advanced topics in Quantum Mathematics* at CQM on Spring 2025. We will discuss basic toric geometry and certain applycations in Physics, especially in F-theory.
 
 Bingyu will instruct the toric geometry part. Muyang will instruct the F-theory part.
 
