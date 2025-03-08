@@ -15,15 +15,13 @@ layout: default
 
  - Non-linear microlocal cut-off functors. _Rend. Sem. Mat. Univ. Padova._ [arXiv](https://arxiv.org/abs/2406.02725), [Journal](https://ems.press/journals/rsmup/articles/14298493).    
 
-   A splitting result in an early version of this article is removed. The result is essentially a reprography of Proposition 3.1.10 of [(_Sheaves and symplectic geometry of cotangent bundles_)](https://arxiv.org/abs/1905.07341) with the present form of cut-off functors.
-
  - On the Hochschild cohomology of Tamarkin categories. Joint with Christopher Kuo and Vivek Shende. Preprint. [arXiv](https://arxiv.org/abs/2312.11447). 
   
- - Contact non-squeezing at large scale via generating functions. Joint with Maia Fraser and Sheila Sandon. Preprint. [arXiv](https://arxiv.org/abs/2310.11993). 
+ - Contact non-squeezing at large scale via generating functions. Joint with Maia Fraser and Sheila Sandon. To appear in _J. Fixed Point Theory Appl._ [arXiv](https://arxiv.org/abs/2310.11993). 
 
  - Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant. Preprint. [arXiv](https://arxiv.org/abs/2306.12316).
   
- - Capacities from the Chiu-Tamarkin Complex. _Journal of Symplectic Geometry_, 22(3) (2024), pp. 441-524. [arXiv](https://arxiv.org/abs/2103.05143), [Journal](https://dx.doi.org/10.4310/JSG.241001211759) ([PDF](Files/Capacity-vJSG.pdf)). 
+ - Capacities from the Chiu-Tamarkin Complex. _J. Symplectic Geom._, 22(3) (2024), pp. 441-524. [arXiv](https://arxiv.org/abs/2103.05143), [Journal](https://dx.doi.org/10.4310/JSG.241001211759) ([PDF](Files/Capacity-vJSG.pdf)). 
 
 ## Thesis and notes
 
