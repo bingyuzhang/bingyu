@@ -9,7 +9,7 @@ layout: default
 
 ## 发表论文与预印本
 
-- Almost mathematics, Persistence module and Tamarkin category/几乎数学、持续模与Tamarkin范畴. 预印本. [arXiv](https://arxiv.org/abs/2503.15933).
+- Almost mathematics, Persistence module, and Tamarkin category/几乎数学、持续模与Tamarkin范畴. 预印本. [arXiv](https://arxiv.org/abs/2503.15933).
 
 - Non-linear microlocal cut-off functors/非线性微局部截断函子. _Rend. Sem. Mat. Univ. Padova._ [arXiv](https://arxiv.org/abs/2406.02725), [Journal](https://ems.press/journals/rsmup/articles/14298493).
 
