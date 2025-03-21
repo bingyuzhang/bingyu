@@ -11,7 +11,7 @@ layout: default
 
  - $S^1$-action on the Hochschild homology of the Tamarkin Category. Joint with Wenyuan Li, in preparation.
 
- - Almost mathematics, Persistence module and Tamarkin category. Joint with Tatsuki Kuwagaki. Preprint. [arXiv](https://arxiv.org/abs/2503.15933).
+ - Almost mathematics, Persistence module, and Tamarkin category. Joint with Tatsuki Kuwagaki. Preprint. [arXiv](https://arxiv.org/abs/2503.15933).
 
  - Non-linear microlocal cut-off functors. _Rend. Sem. Mat. Univ. Padova._ [arXiv](https://arxiv.org/abs/2406.02725), [Journal](https://ems.press/journals/rsmup/articles/14298493).    
 
