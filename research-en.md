@@ -11,17 +11,29 @@ layout: default
 
  - $S^1$-action on the Hochschild homology of the Tamarkin Category. Joint with Wenyuan Li, in preparation.
 
- - Almost mathematics, Persistence module, and Tamarkin category. Joint with Tatsuki Kuwagaki. Preprint. [arXiv](https://arxiv.org/abs/2503.15933).
+ - Almost mathematics, Persistence module, and Tamarkin category. Joint with Tatsuki Kuwagaki.
 
- - Non-linear microlocal cut-off functors. _Rend. Sem. Mat. Univ. Padova._ [arXiv](https://arxiv.org/abs/2406.02725), [Journal](https://ems.press/journals/rsmup/articles/14298493).    
+   Preprint. [arXiv](https://arxiv.org/abs/2503.15933).
 
- - On the Hochschild cohomology of Tamarkin categories. Joint with Christopher Kuo and Vivek Shende. Preprint. [arXiv](https://arxiv.org/abs/2312.11447). 
+ - Non-linear microlocal cut-off functors.
+
+   _Rend. Sem. Mat. Univ. Padova._ [arXiv](https://arxiv.org/abs/2406.02725), [Journal](https://ems.press/journals/rsmup/articles/14298493).    
+
+ - On the Hochschild cohomology of Tamarkin categories. Joint with Christopher Kuo and Vivek Shende.
+
+   Preprint. [arXiv](https://arxiv.org/abs/2312.11447). 
   
- - Contact non-squeezing at large scale via generating functions. Joint with Maia Fraser and Sheila Sandon. _J. Fixed Point Theory Appl._, 27, 46 (2025), [arXiv](https://arxiv.org/abs/2310.11993), [Journal](https://link.springer.com/article/10.1007/s11784-025-01188-1). 
+ - Contact non-squeezing at large scale via generating functions. Joint with Maia Fraser and Sheila Sandon.
 
- - Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant. Preprint. [arXiv](https://arxiv.org/abs/2306.12316).
+   _J. Fixed Point Theory Appl._, 27, 46 (2025), [arXiv](https://arxiv.org/abs/2310.11993), [Journal](https://link.springer.com/article/10.1007/s11784-025-01188-1). 
+
+ - Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant.
+
+   Preprint. [arXiv](https://arxiv.org/abs/2306.12316).
   
- - Capacities from the Chiu-Tamarkin Complex. _J. Symplectic Geom._, 22(3) (2024), pp. 441-524. [arXiv](https://arxiv.org/abs/2103.05143), [Journal](https://dx.doi.org/10.4310/JSG.241001211759) ([PDF](Files/Capacity-vJSG.pdf)). 
+ - Capacities from the Chiu-Tamarkin Complex.
+
+   _J. Symplectic Geom._, 22(3) (2024), pp. 441-524. [arXiv](https://arxiv.org/abs/2103.05143), [Journal](https://dx.doi.org/10.4310/JSG.241001211759) ([PDF](Files/Capacity-vJSG.pdf)). 
 
 ## Thesis and notes
 
