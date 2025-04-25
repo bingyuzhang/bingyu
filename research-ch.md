@@ -15,7 +15,7 @@ layout: default
 
 - On the Hochschild cohomology of Tamarkin categories/关于Tamarkin范畴的Hochschild上同调. 与Christopher Kuo和Vivek Shende合作. 预印本. [arXiv](https://arxiv.org/abs/2312.11447). 
    
-- Contact non-squeezing at large scale via generating functions/大尺度切触非挤压定理的生成函数证明. 与Maia Fraser和Sheila Sandon合作. 即将刊于 _J. Fixed Point Theory Appl._ [arXiv](https://arxiv.org/abs/2310.11993).
+- Contact non-squeezing at large scale via generating functions/大尺度切触非挤压定理的生成函数证明. 与Maia Fraser和Sheila Sandon合作. _J. Fixed Point Theory Appl._, 27, 46 (2025),  [arXiv](https://arxiv.org/abs/2310.11993), [期刊](https://link.springer.com/article/10.1007/s11784-025-01188-1). .
   
 - Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant/微局部核的幂等性与$S^1$等变邱-Tamarkin不变量. 预印本. [arXiv](https://arxiv.org/abs/2306.12316).
 
