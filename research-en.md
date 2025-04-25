@@ -17,7 +17,7 @@ layout: default
 
  - On the Hochschild cohomology of Tamarkin categories. Joint with Christopher Kuo and Vivek Shende. Preprint. [arXiv](https://arxiv.org/abs/2312.11447). 
   
- - Contact non-squeezing at large scale via generating functions. Joint with Maia Fraser and Sheila Sandon. To appear in _J. Fixed Point Theory Appl._ [arXiv](https://arxiv.org/abs/2310.11993). 
+ - Contact non-squeezing at large scale via generating functions. Joint with Maia Fraser and Sheila Sandon. _J. Fixed Point Theory Appl._, 27, 46 (2025), [arXiv](https://arxiv.org/abs/2310.11993), [Journal](https://link.springer.com/article/10.1007/s11784-025-01188-1). 
 
  - Idempotence of microlocal kernels and $S^1$-equivariant Chiu-Tamarkin invariant. Preprint. [arXiv](https://arxiv.org/abs/2306.12316).
   
