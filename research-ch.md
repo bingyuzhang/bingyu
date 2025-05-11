@@ -37,6 +37,8 @@ layout: default
   
 ## 毕业论文及笔记
 
+- [A remark on Continuous K-theory and Fourier-Sato trasform](Files/FourierSatoKtheory.pdf). 这篇短文用Fourier-Sato变换推广了一个连续K理论的计算.
+
 - [PhD Thesis](Files/PhD_Thesis.pdf) 是我的博士论文的. 本文由上述最后两篇论文组成, 但并非简单组合, 互有补充.
 
 - [Generating functions and Sheaves](Files/GF-Sheaves.pdf)是CIRM在2021举办的辛拓扑与切触拓扑春季学校的一个短课的笔记. 主讲Sylvain Courte. 主要介绍了生成函数和层论的基本概念.
