@@ -37,6 +37,8 @@ layout: default
 
 ## Thesis and notes
 
+- [A remark on Continuous K-theory and Fourier-Sato trasform](Files/FourierSatoKtheory.pdf). Here, we generalize a computation of the Continuous K-theory using the Fourier-Sato transform.
+
 - [PhD Thesis](Files/PhD_Thesis.pdf) is my PhD thesis. It basically consists of the last two papers above but is not strictly their sum.
 
 - [Generating functions and Sheaves](Files/GF-Sheaves.pdf) is a note for a short lecture within CIRM Spring School on Symplectic and Contact Topology in 2021. The short lecture, given by Sylvain Courte, introduces the basic notions of generating functions and sheaves.
