@@ -11,7 +11,7 @@ This is a PhD topics course *Advanced topics in Quantum Mathematics* at CQM on S
 
 Bingyu will instruct the toric geometry part. Muyang will instruct the F-theory part.
 
-The lecture note is [here](/Files/toric.pdf). It would be updated as the course progresses.
+The lecture note is [here](/Files/toric.pdf). 
 
 ## References
 
