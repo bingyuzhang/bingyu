@@ -9,6 +9,10 @@ layout: default
 
 ## 发表论文与预印本
 
+- A remark on Continuous K-theory and Fourier-Sato trasform. 
+
+  [预印本](Files/FourierSatoKtheory.pdf).
+
 - Almost mathematics, Persistence module, and Tamarkin category/几乎数学、持续模与Tamarkin范畴.
 
   预印本. [arXiv](https://arxiv.org/abs/2503.15933).
@@ -36,8 +40,6 @@ layout: default
 
   
 ## 毕业论文及笔记
-
-- [A remark on Continuous K-theory and Fourier-Sato trasform](Files/FourierSatoKtheory.pdf). 这篇短文用Fourier-Sato变换推广了一个连续K理论的计算.
 
 - [PhD Thesis](Files/PhD_Thesis.pdf) 是我的博士论文的. 本文由上述最后两篇论文组成, 但并非简单组合, 互有补充.
 
