@@ -11,6 +11,10 @@ layout: default
 
  - $S^1$-action on the Hochschild homology of the Tamarkin Category. Joint with Wenyuan Li, in preparation.
 
+ - A remark on Continuous K-theory and Fourier-Sato trasform.
+
+   [Preprint](Files/FourierSatoKtheory.pdf)
+
  - Almost mathematics, Persistence module, and Tamarkin category. Joint with Tatsuki Kuwagaki.
 
    Preprint. [arXiv](https://arxiv.org/abs/2503.15933).
@@ -36,8 +40,6 @@ layout: default
    _J. Symplectic Geom._, 22(3) (2024), pp. 441-524. [arXiv](https://arxiv.org/abs/2103.05143), [Journal](https://dx.doi.org/10.4310/JSG.241001211759) ([PDF](Files/Capacity-vJSG.pdf)). 
 
 ## Thesis and notes
-
-- [A remark on Continuous K-theory and Fourier-Sato trasform](Files/FourierSatoKtheory.pdf). Here, we generalize a computation of the Continuous K-theory using the Fourier-Sato transform.
 
 - [PhD Thesis](Files/PhD_Thesis.pdf) is my PhD thesis. It basically consists of the last two papers above but is not strictly their sum.
 
