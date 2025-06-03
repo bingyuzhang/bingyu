@@ -11,7 +11,7 @@ layout: default
 
  - $S^1$-action on the Hochschild homology of the Tamarkin Category. Joint with Wenyuan Li, in preparation.
 
- - A remark on Continuous K-theory and Fourier-Sato trasform.
+ - A remark on Continuous K-theory and Fourier-Sato transform.
 
    [Preprint](Files/FourierSatoKtheory.pdf)
 
