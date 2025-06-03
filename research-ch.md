@@ -9,11 +9,11 @@ layout: default
 
 ## 发表论文与预印本
 
-- A remark on Continuous K-theory and Fourier-Sato trasform. 
+- A remark on Continuous K-theory and Fourier-Sato transform/一个连续K理论与傅里叶-佐藤变换的注记. 
 
   [预印本](Files/FourierSatoKtheory.pdf).
 
-- Almost mathematics, Persistence module, and Tamarkin category/几乎数学、持续模与Tamarkin范畴.
+- Almost mathematics, Persistence module, and Tamarkin category/几乎数学、持续模与Tamarkin范畴. 与桑垣樹合作.
 
   预印本. [arXiv](https://arxiv.org/abs/2503.15933).
 
