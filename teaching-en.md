@@ -7,6 +7,10 @@ layout: default
 
 # Teaching
 
+- 2025 Fall: Riemannian Geometry. University of Southern Denmark. Instructor. 
+
+- 2025 Fall: Advanced Topics in Geometry and Topology: Higher category and microlocal theory of sheaves. University of Southern Denmark. Instructor.
+
 - 2024 Fall: [Advanced Topics in Quantum Mathematics: Toric Geometry and F-theory](seminar/Toric.md). University of Southern Denmark. Instructor, joint with Muyang Liu.
 
 - 2023 Fall: [Advanced Topics in Geometry and Topology: Introduction to Mirror Symmetry](seminar/MirrorSymmetry.md). University of Southern Denmark. Instructor.
