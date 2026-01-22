@@ -10,6 +10,8 @@ layout: default
 ## Publication and preprints ([arXiv Page](https://arxiv.org/a/zhang_b_7.html))
 
  - $S^1$-action on the Hochschild homology of the Tamarkin Category. Joint with Wenyuan Li, in preparation.
+   
+ - Density of fibers for the filtered Fukaya category of $T^*N$. Joint with Stéphane Guillermou and Claude Viterbo, in preparation.
 
  - A remark on Continuous K-theory and Fourier-Sato transform.
 
