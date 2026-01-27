@@ -11,8 +11,8 @@ layout: default
 <br /><br />
 
 
-<div style="width:100%;">
-            <img src="me.jpeg" align="right"  width="26%" height="26%"/>
+<div style="width:90%;">
+            <img src="me.jpeg" align="right"  width="28%" height="28%"/>
             <p>I am Bingyu Zhang (张秉宇).  My CV is here: <a href="Files/CV.pdf">CV</a>.</p>
             <p>I will joint Department of Mathematics in Kyiv School of Economics as Simons Assistant Professor since May 2026. Meanwhile, I will be a member of Institute for Advanced Study for the Special Year Program (2026-27). </p>
             <p>Currently, I am a Post-Doc at Centre for Quantum Mathematics in the University of Southern Denmark (SDU). I am working with Vivek Shende (2022-2025) and Jørgen Ellegaard Andersen (2025-2026). </p>
