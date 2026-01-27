@@ -11,7 +11,7 @@ layout: default
 <br /><br />
 
 
-<div style="width:90%;">
+<div style="width:100%;">
             <img src="me.jpeg" align="right"  width="28%" height="28%"/>
             <p>我是张秉宇(Bingyu Zhang). 这里是我的 <a href="Files/CV.pdf">简历(英文版)</a>.</p>
             <p>自2026年五月，我将加入基辅经济学院数学系任Simons助理教授. 同时，我将作为成员参加普林斯顿高等研究院的特殊年项目(2026-27).  </p>
