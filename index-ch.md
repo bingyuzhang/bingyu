@@ -14,7 +14,8 @@ layout: default
 <div style="width:100%;">
             <img src="me.jpeg" align="right"  width="26%" height="26%"/>
             <p>我是张秉宇(Bingyu Zhang). 这里是我的 <a href="Files/CV.pdf">简历(英文版)</a>.</p>
-            <p>现在我是南丹麦大学量子数学中心的博士后，与Vivek Shende一起工作.</p>
+            <p>自2026年五月，我将加入基辅经济学院数学系任Simons助理教授. 同时，我将作为成员参加普林斯顿高等研究院的特殊年项目(2026-27).  </p>
+            <p>现在我是南丹麦大学量子数学中心的博士后，与 Vivek Shende(2022-2025) 及 Jørgen Ellegaard Andersen(2025-2026) 一起工作.</p>
             <p>2022年9月, 我在Institute Fourier, Université Grenoble Alpes被授予博士学位。我的导师是Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (LMJL, Université de Nantes), 和Claude Viterbo (LMO, Université Paris-Saclay).</p>
             <br /><br />
             <p>地址: Ø9-301c-1, Syddansk Universitet. </p>
