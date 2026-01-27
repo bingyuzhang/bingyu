@@ -14,7 +14,7 @@ layout: default
 <div style="width:100%;">
             <img src="me.jpeg" align="right"  width="26%" height="26%"/>
             <p>I am Bingyu Zhang (张秉宇).  My CV is here: <a href="Files/CV.pdf">CV</a>.</p>
-            <p>I will joint Department of Mathematics in Kyiv School of Economics as Simons Assistant Professor since May of 2027. Meanwhile, I will be a member of Institute for Advanced Study for the Special Year (2026-27) on Conformally Symplectic Dynamics and Geometry. </p>
+            <p>I will joint Department of Mathematics in Kyiv School of Economics as Simons Assistant Professor since May of 2027. Meanwhile, I will be a member of Institute for Advanced Study for the Special Year Program (2026-27). </p>
             <p>Currently, I am a Post-Doc at Centre for Quantum Mathematics in the University of Southern Denmark (SDU). I am working with Vivek Shende (2022-2025) and Jørgen Ellegaard Andersen (2025-2026). </p>
             <p>I received my PhD degree on Sep. 2022 from Institut Fourier at Université Grenoble Alpes under the supervision of Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (LMJL, Université de Nantes), and Claude Viterbo (LMO, Université Paris-Saclay).</p>
             <br /><br />
