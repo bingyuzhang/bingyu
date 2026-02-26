@@ -9,6 +9,10 @@ layout: default
 
 ## 发表论文与预印本
 
+- Density of fibers for the filtered Fukaya category of $T^*N$/滤过深谷范畴中余切丛的稠密性. 与Stéphane Guillermou和Claude Viterbo合作.
+
+   预印本. [arXiv](https://arxiv.org/abs/2602.21759).
+
 - A remark on Continuous K-theory and Fourier-Sato transform/一个连续K理论与傅里叶-佐藤变换的注记. 
 
   被  _Proc. Am. Math. Soc._ 接收 [arXiv](https://arxiv.org/abs/2506.02329).
