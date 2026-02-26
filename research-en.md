@@ -11,7 +11,9 @@ layout: default
 
  - $S^1$-action on the Hochschild homology of the Tamarkin Category. Joint with Wenyuan Li, in preparation.
    
- - Density of fibers for the filtered Fukaya category of $T^*N$. Joint with Stéphane Guillermou and Claude Viterbo, in preparation.
+ - Density of fibers for the filtered Fukaya category of $T^*N$. Joint with Stéphane Guillermou and Claude Viterbo.
+
+   Preprint. [arXiv](https://arxiv.org/abs/2602.21759).
 
  - A remark on Continuous K-theory and Fourier-Sato transform.
 
