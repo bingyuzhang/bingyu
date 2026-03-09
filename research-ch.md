@@ -9,7 +9,7 @@ layout: default
 
 ## 发表论文与预印本
 
-- Density of fibers for the filtered Fukaya category of $T^*N$/滤过深谷范畴中余切丛的稠密性. 与Stéphane Guillermou和Claude Viterbo合作.
+- Density of fibers for the filtered Fukaya category of $T^*N$/余切丛滤过深谷范畴中余切纤维的稠密性. 与Stéphane Guillermou和Claude Viterbo合作.
 
    预印本. [arXiv](https://arxiv.org/abs/2602.21759).
 
