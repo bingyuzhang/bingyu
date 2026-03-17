@@ -21,6 +21,7 @@ layout: default
             <p>Address: Ø9-312c-1, Syddansk Universitet. </p>
             <p>Campusvej 55, 5230 Odense, Denmark.</p>
             <p>E-mail: bingyuzhang@imada.sdu.dk</p>
+            <p>        bzhang@kse.org.ua </p>
 </div>
 
 
