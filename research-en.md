@@ -17,7 +17,7 @@ layout: default
 
  - A remark on Continuous K-theory and Fourier-Sato transform.
 
-   Accepted by _Proc. Am. Math. Soc._ [arXiv](https://arxiv.org/abs/2506.02329).
+   _Proc. Am. Math. Soc._ 154 (2026), pp. 2357-2368. [arXiv](https://arxiv.org/abs/2506.02329), [Journal](https://pubs.ams.org/journals/proc/0000-000-00/S0002-9939-2026-17589-5).
 
  - Almost mathematics, Persistence module, and Tamarkin category. Joint with Tatsuki Kuwagaki.
 
