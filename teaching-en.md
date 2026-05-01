@@ -7,7 +7,7 @@ layout: default
 
 # Teaching
 
-- 2026 Summer: [Algebraic topology](teaching/AT2026.MD). Kyiv School of Economics. Instructor, joint with Sylvain Gaulhiac.
+- 2026 Summer: [Algebraic topology](teaching/AT2026.md). Kyiv School of Economics. Instructor, joint with Sylvain Gaulhiac.
 
 - 2025 Fall: Riemannian Geometry. University of Southern Denmark. Instructor. 
 
