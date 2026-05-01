@@ -7,6 +7,8 @@ layout: default
 
 # Teaching
 
+- 2026 Summer: [Algebraic topology](teaching/AT2026.MD). Kyiv School of Economics. Instructor, joint with Sylvain Gaulhiac.
+
 - 2025 Fall: Riemannian Geometry. University of Southern Denmark. Instructor. 
 
 - 2025 Fall: Advanced Topics in Geometry and Topology: Higher category and microlocal theory of sheaves. University of Southern Denmark. Instructor.
