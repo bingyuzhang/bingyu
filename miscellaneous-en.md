@@ -7,6 +7,8 @@ layout: default
 
 # Useful links
 
+[Department of Mathematics of KSE](https://university.kse.ua/en/mathematics)
+
 [Centre for Quantum Mathematics of SDU](https://www.sdu.dk/en/forskning/qm)
 
 [Department of Mathematics and Computer Science of SDU](https://www.sdu.dk/en/imada)
@@ -19,7 +21,7 @@ layout: default
 
 [researchseminars](https://researchseminars.org/)
 
-A [website](https://tikzcd.yichuanshen.de/) to dram commutative diagrams based on tikzcd. Thanks to the author very much!
+A [website](https://tikzcd.yichuanshen.de/) to draw commutative diagrams based on tikzcd. Thanks to the author very much!
 
 # [Cooking](cooking-en.md)
 
