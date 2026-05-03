@@ -8,6 +8,8 @@ layout: default
 
 # 常用链接
 
+[Department of Mathematics of KSE](https://university.kse.ua/en/mathematics)
+
 [Centre for Quantum Mathematics of SDU](https://www.sdu.dk/en/forskning/qm)
 
 [Department of Mathematics and Computer Science of SDU](https://www.sdu.dk/en/imada)
