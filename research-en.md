@@ -21,7 +21,7 @@ layout: default
 
  - Almost mathematics, Persistence module, and Tamarkin category. Joint with Tatsuki Kuwagaki.
 
-   Preprint. [arXiv](https://arxiv.org/abs/2503.15933).
+   Accepted by _Forum Math. Sigma_. Preprint. [arXiv](https://arxiv.org/abs/2503.15933).
 
  - Non-linear microlocal cut-off functors.
 
@@ -45,7 +45,7 @@ layout: default
 
 ## Thesis and notes
 
-- [PhD Thesis](Files/PhD_Thesis.pdf) is my PhD thesis. It basically consists of the last two papers above but is not strictly their sum.
+- [PhD Thesis](Files/PhD_Thesis.pdf) is my PhD thesis. It basically consists of the last two papers above but is not strictly their sum. [Errata](Files/Thesis_errata.pdf). 
 
 - [Generating functions and Sheaves](Files/GF-Sheaves.pdf) is a note for a short lecture within CIRM Spring School on Symplectic and Contact Topology in 2021. The short lecture, given by Sylvain Courte, introduces the basic notions of generating functions and sheaves.
 
