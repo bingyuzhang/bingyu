@@ -19,7 +19,7 @@ layout: default
 
 - Almost mathematics, Persistence module, and Tamarkin category/几乎数学、持续模与Tamarkin范畴. 与桑垣樹合作.
 
-  预印本. [arXiv](https://arxiv.org/abs/2503.15933).
+  被_Forum Math. Sigma_接收. 预印本. [arXiv](https://arxiv.org/abs/2503.15933).
 
 - Non-linear microlocal cut-off functors/非线性微局部截断函子.
 
@@ -45,7 +45,7 @@ layout: default
   
 ## 毕业论文及笔记
 
-- [PhD Thesis](Files/PhD_Thesis.pdf) 是我的博士论文的. 本文由上述最后两篇论文组成, 但并非简单组合, 互有补充.
+- [PhD Thesis](Files/PhD_Thesis.pdf) 是我的博士论文的. 本文由上述最后两篇论文组成, 但并非简单组合, 互有补充. [勘误](Files/Thesis_errata.pdf). 
 
 - [Generating functions and Sheaves](Files/GF-Sheaves.pdf)是CIRM在2021举办的辛拓扑与切触拓扑春季学校的一个短课的笔记. 主讲Sylvain Courte. 主要介绍了生成函数和层论的基本概念.
 
