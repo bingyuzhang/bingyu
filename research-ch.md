@@ -19,7 +19,7 @@ layout: default
 
 - Almost mathematics, Persistence module, and Tamarkin category/几乎数学、持续模与Tamarkin范畴. 与桑垣樹合作.
 
-  被_Forum Math. Sigma_接收. 预印本. [arXiv](https://arxiv.org/abs/2503.15933).
+  被 _Forum Math. Sigma_ 接收. 预印本. [arXiv](https://arxiv.org/abs/2503.15933).
 
 - Non-linear microlocal cut-off functors/非线性微局部截断函子.
 
