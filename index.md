@@ -18,7 +18,7 @@ layout: default
             <p>Before joining KSE, I was a Post-Doc at the Centre for Quantum Mathematics in the University of Southern Denmark (SDU). I was working with Vivek Shende (2022-2025) and Jørgen Ellegaard Andersen (2025-2026). </p>
             <p>I received my PhD degree on Sep. 2022 from Institut Fourier at Université Grenoble Alpes under the supervision of Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (LMJL, Université de Nantes), and Claude Viterbo (LMO, Université Paris-Saclay).</p>
             <br /><br />
-            <p>Address: 217 Simonyi Hall, 1 Einstein Dr, Princeton, NJ 08540, United State</p>
+            <p>Address: 217 Simonyi Hall, 1 Einstein Dr, Princeton, NJ 08540, United States</p>
             <p>E-mail: bzhang@kse.org.ua & byzhang@ias.ed (both works)</p>
 
 </div>
