@@ -23,7 +23,7 @@ layout: default
 
 - Non-linear microlocal cut-off functors/非线性微局部截断函子.
 
-  _Rend. Sem. Mat. Univ. Padova._ [arXiv](https://arxiv.org/abs/2406.02725), [期刊](https://ems.press/journals/rsmup/articles/14298493).
+  _Rend. Sem. Mat. Univ. Padova._ 156 (2026), pp. 19–44. [arXiv](https://arxiv.org/abs/2406.02725), [期刊](https://ems.press/journals/rsmup/articles/14298493).
 
 - On the Hochschild cohomology of Tamarkin categories/关于Tamarkin范畴的Hochschild上同调. 与Christopher Kuo和Vivek Shende合作.
 
