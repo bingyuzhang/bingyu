@@ -25,7 +25,7 @@ layout: default
 
  - Non-linear microlocal cut-off functors.
 
-   _Rend. Sem. Mat. Univ. Padova._ [arXiv](https://arxiv.org/abs/2406.02725), [Journal](https://ems.press/journals/rsmup/articles/14298493).    
+   _Rend. Sem. Mat. Univ. Padova._ 156 (2026), pp. 19–44. [arXiv](https://arxiv.org/abs/2406.02725), [Journal](https://ems.press/journals/rsmup/articles/14298493).    
 
  - On the Hochschild cohomology of Tamarkin categories. Joint with Christopher Kuo and Vivek Shende.
 
