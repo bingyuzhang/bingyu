@@ -19,7 +19,7 @@ layout: default
             <p>I received my PhD degree on Sep. 2022 from Institut Fourier at Université Grenoble Alpes under the supervision of Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (LMJL, Université de Nantes), and Claude Viterbo (LMO, Université Paris-Saclay).</p>
             <br /><br />
             <p>Address: 217 Simonyi Hall, 1 Einstein Dr, Princeton, NJ 08540, USA</p>
-            <p>E-mail: bzhang@kse.org.ua & byzhang@ias.ed (both works)</p>
+            <p>E-mail: bzhang@kse.org.ua & byzhang@ias.edu (both works)</p>
 
 </div>
 
