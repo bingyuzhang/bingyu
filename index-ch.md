@@ -19,7 +19,7 @@ layout: default
             <p>2022年9月, 我在Institute Fourier, Université Grenoble Alpes被授予博士学位。我的导师是Damien Gayet (IF, Université Grenoble Alpes), Stéphane Guillermou (LMJL, Université de Nantes), 和Claude Viterbo (LMO, Université Paris-Saclay).</p>
             <br /><br />
             <p>地址: 217 Simonyi Hall, 1 Einstein Dr, Princeton, NJ 08540, USA </p>
-            <p>E-mail: bzhang@kse.org.ua & byzhang@ias.ed (均有效)</p>
+            <p>E-mail: bzhang@kse.org.ua & byzhang@ias.edu (均有效)</p>
 
 </div>
 
