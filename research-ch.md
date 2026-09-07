@@ -57,6 +57,8 @@ layout: default
 
 本节旨在完成一些中文翻译项目。主要由大语言模型完成，本人及小伙伴校对。水平有限，如有错误欢迎指点更正。
 
-- [h-配边定理讲义](Files/h_cobordism.pdf), John Milnor. [GitHub](https://github.com/bingyuzhang/h-cobordism.git).
+- [Lectures on the h-Cobordism Theorem/h-配边定理讲义](Files/h_cobordism.pdf), John Milnor. [GitHub](https://github.com/bingyuzhang/h-cobordism.git). 初步校对已经完成。
+
+- [Faisceaux pervers/崴层](Files/BBDG.pdf), Beilinson-Bernstein-Deligne-Gabber. [GitHub](https://github.com/bingyuzhang/BBDG.git)). 校对仍在逐步进行。
 
 {% include head.html %}
