@@ -53,4 +53,10 @@ layout: default
 
 - 在阮卫东研究员指导下, 我在[中科院硕士论文](Files/CAS_Thesis.pdf)中完成了一个哈密顿同痕的Guillermou-Kashiwara-Schapira层量子化的笔记.
 
+## 翻译项目
+
+本节旨在完成一些中文翻译项目。主要由大语言模型完成，本人及小伙伴校对。水平有限，如有错误欢迎指点更正。
+
+- [h-配边定理讲义](Files/h_cobordism.pdf) John Milnor. [GitHub](https://github.com/bingyuzhang/h-cobordism.git).
+
 {% include head.html %}
