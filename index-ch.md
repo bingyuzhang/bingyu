@@ -12,7 +12,13 @@ layout: default
 
 
 <div style="width:100%;">
-            <img src="me.jpeg" align="right"  width="28%" height="28%"/>
+            <figure style="float:right; width:28%; margin:0 0 1em 1em; text-align:center;">
+  <img src="IAS-me.jpg" alt="Bingyu Zhang" style="width:100%; height:auto;">
+  <figcaption>
+    摄影：Thomas Robert Clarke<br>
+    高等研究院
+  </figcaption>
+</figure>
             <p>我是张秉宇(Bingyu Zhang). 这里是我的 <a href="Files/CV.pdf">简历(英文版)</a>.</p>
             <p>我在基辅经济学院数学系任Simons助理教授 (常任轨助理教授). 现在，我暂时从基辅经济学院离职，作为成员参加普林斯顿高等研究院的特殊年项目(2026-27).  </p>
             <p>在加入KSE之前，我是南丹麦大学量子数学中心的博士后，与 Vivek Shende(2022-2025) 及 Jørgen Ellegaard Andersen(2025-2026) 一起工作.</p>
