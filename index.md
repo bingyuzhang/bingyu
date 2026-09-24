@@ -12,7 +12,13 @@ layout: default
 
 
 <div style="width:100%;">
-            <img src="me.jpeg" align="right"  width="28%" height="28%"/>
+            <figure style="float:right; width:28%; margin:0 0 1em 1em; text-align:center;">
+  <img src="me.jpeg" alt="Bingyu Zhang" style="width:100%; height:auto;">
+  <figcaption>
+    第一行文字<br>
+    第二行文字
+  </figcaption>
+</figure>
             <p>I am Bingyu Zhang (张秉宇).  My CV is here: <a href="Files/CV.pdf">CV</a>.</p>
             <p>I am a Simons Assistant Professor (tenure-track AP) in the Department of Mathematics at the Kyiv School of Economics (KSE). Currently, I am on leave from KSE and serve as a member of the Institute for Advanced Study's Special Year Program (2026-27). </p>
             <p>Before joining KSE, I was a Post-Doc at the Centre for Quantum Mathematics in the University of Southern Denmark (SDU). I was working with Vivek Shende (2022-2025) and Jørgen Ellegaard Andersen (2025-2026). </p>
