@@ -13,10 +13,10 @@ layout: default
 
 <div style="width:100%;">
             <figure style="float:right; width:28%; margin:0 0 1em 1em; text-align:center;">
-  <img src="me.jpeg" alt="Bingyu Zhang" style="width:100%; height:auto;">
+  <img src="IAS-me.jpg" alt="Bingyu Zhang" style="width:100%; height:auto;">
   <figcaption>
-    第一行文字<br>
-    第二行文字
+    Photed by Thomas Robert Clarke<br>
+    Institute for Advanced Study
   </figcaption>
 </figure>
             <p>I am Bingyu Zhang (张秉宇).  My CV is here: <a href="Files/CV.pdf">CV</a>.</p>
