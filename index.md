@@ -15,7 +15,7 @@ layout: default
             <figure style="float:right; width:28%; margin:0 0 1em 1em; text-align:center;">
   <img src="IAS-me.jpg" alt="Bingyu Zhang" style="width:100%; height:auto;">
   <figcaption>
-    Photo by Thomas Robert Clarke<br>
+    Photo by Thomas Robert Clarke,<br>
     Institute for Advanced Study
   </figcaption>
 </figure>
