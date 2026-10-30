@@ -9,7 +9,9 @@ layout: default
 
 ## Publication and preprints ([arXiv Page](https://arxiv.org/a/zhang_b_7.html))
 
- - $S^1$-action on the Hochschild homology of the Tamarkin Category. Joint with Wenyuan Li, in preparation.
+ - Capacities from the Chiu-Tamarkin complex II: product formula and toric domains. Joint with Wenyuan Li, in preparation.
+
+ - Cyclic homology of sheaf categories. Joint with Wenyuan Li, in preparation.
    
  - Density of fibers for the filtered Fukaya category of $T^*N$. Joint with Stéphane Guillermou and Claude Viterbo.
 
@@ -39,7 +41,7 @@ layout: default
 
    Preprint. [arXiv](https://arxiv.org/abs/2306.12316).
   
- - Capacities from the Chiu-Tamarkin Complex.
+ - Capacities from the Chiu-Tamarkin complex.
 
    _J. Symplectic Geom._, 22(3) (2024), pp. 441-524. [arXiv](https://arxiv.org/abs/2103.05143), [Journal](https://dx.doi.org/10.4310/JSG.241001211759) ([PDF](Files/Capacity-vJSG.pdf)). 
 
