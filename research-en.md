@@ -9,9 +9,13 @@ layout: default
 
 ## Publication and preprints ([arXiv Page](https://arxiv.org/a/zhang_b_7.html))
 
- - Capacities from the Chiu-Tamarkin complex II: product formula and toric domains. Joint with Wenyuan Li, in preparation.
+ - Capacities from the Chiu-Tamarkin complex II: product formula and toric domains. Joint with Wenyuan Li.
 
- - Cyclic homology of sheaf categories. Joint with Wenyuan Li, in preparation.
+   Preprint. [arXiv](https://arxiv.org/abs/2611.21220).
+
+ - Cyclic homology of sheaf categories. Joint with Wenyuan Li.
+
+   Preprint. [arXiv](https://arxiv.org/abs/2611.21205).
    
  - Density of fibers for the filtered Fukaya category of $T^*N$. Joint with Stéphane Guillermou and Claude Viterbo.
 
