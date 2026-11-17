@@ -9,6 +9,14 @@ layout: default
 
 ## 发表论文与预印本
 
+ - Capacities from the Chiu-Tamarkin complex II: product formula and toric domains/来自邱-Tamarkin复形的容度 II: 乘积公式与环域. 与李文远合作.
+
+   预印本. [arXiv](https://arxiv.org/abs/2611.21220).
+
+ - Cyclic homology of sheaf categories/层范畴的循环同调. 与李文远合作.
+
+   预印本. [arXiv](https://arxiv.org/abs/2611.21205).
+
 - Density of fibers for the filtered Fukaya category of $T^*N$/余切丛滤过深谷范畴中余切纤维的稠密性. 与Stéphane Guillermou和Claude Viterbo合作.
 
    预印本. [arXiv](https://arxiv.org/abs/2602.21759).
